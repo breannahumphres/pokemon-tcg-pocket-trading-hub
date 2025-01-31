@@ -1,0 +1,2760 @@
+[
+    {
+        "name": "Bulbasaur",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Grass",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/hpvbA3UWmRXUQxxc_uqYbIpS96jn_OU6f6UZKZy7jcLSXUYPE6etwLCbSfwym9B4rqgzTzCzXO-rDvayN2og39jWhjDH7OWBwV_xCsvEv0WfllQA"
+    },
+    {
+        "name": "Ivysaur",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Grass",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/FqTDrcRFfFav490FriKKYpqheGmfD9Pq5qCxU-_P_FMRp-EOyvZI0ozgAmEJ_Je-6jbJ-nAfgC0Khpecz5IqIydDvXvMA7J2SwRMvagK3eeqL11aCw"
+    },
+    {
+        "name": "Venusaur",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Grass",
+        "rarity": "3 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/M1t9dNUbDCB1NdrZxAsefq6bNc2ke9E1GTxx-AM7ivtrOhHJgtVZZYsAEWWd9GyFPLnbYNGyrHJ6iNUah2J4QF5AhmzwDDhT7QGBbDT38JNFtG9J"
+    },
+    {
+        "name": "Venusaur ex",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Grass",
+        "rarity": "4 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/K0icwiY4wMf_7Gf6bcpeZIctydtJ566WDe0X8eQFHeJPlWpyjCyhKtmaFCqQOT4PvObXIjaTlLoyvAvmfnzCOTat_OGYBDLCYqFtHNs-Pswvnt8yRQ"
+    },
+    {
+        "name": "Caterpie",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Grass",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/7tAT4vwVlJgNk9bIpRsYFw_FHwL7DS87vBURE_vHYOCK40FZISAbqjj9zMHheJnNYnln4VamaMBWk3jLvD6WGQ0IkeneIeUu9jdi8cHo4Gl995zgGw"
+    },
+    {
+        "name": "Metapod",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Grass",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/h69GBbMWkUdb0zroyM_OIfwpV-wsc1vFtnC0gU0lkq6KgPJniMrVmHgs6wQMXd5B_aOtAEuxYedpbM5ZZhNAaeMuuF5g6D08pGGGz9gjAtd7aR7bYg"
+    },
+    {
+        "name": "Butterfree",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Grass",
+        "rarity": "3 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/4VCRC6HuGtG75tmG41mKlLv-7JeC5kq52nWfVwMk6QjZULf1QvAqT1zeqexoB-kYR15uXkzDJkFiDZ8yLZp1i6Nt7aVScdmdbPBzcb013lstEt9f"
+    },
+    {
+        "name": "Weedle",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Grass",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/kl7ga-MzAGxmbpfj4unQfpLVNTa0Okoo55eqK5eNEpqdaG1qm564hbEdJNz2lsOBUyB0rpxvqKUvG9UEz2XFauKGTHPmDUpEdCYBL8g_u-o"
+    },
+    {
+        "name": "Kakuna",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Grass",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/noO134bwvtzjz2VawZI3bI8zn4DrJOC5OGPDM1jkTt7xeeGsrQf6RClM5SVwYG2vNeMLIuuCjAEzWSKD5Q_3dZGyv9kscUIO638XDl7g7vGju0FmBg"
+    },
+    {
+        "name": "Beedrill",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Grass",
+        "rarity": "3 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/QvyDc1913MNjrQ6r4e1W5KltRRTb8iWummRb1_QelCMa_Yt2o-KNbh5OZWYOHWEG5MCpYh-r-O0jfMuMDKDkTvDpUt-GGVbKXA2obASyJIRlUychJg"
+    },
+    {
+        "name": "Oddish",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Grass",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/E7tKqG1nDLihOEtDsceHS8kS4AEenq49ZrA85F2h76zhF2isiOstjqEtLqdnrH4O9GfVH2qQ7Nr0U4IL8xN2fP2FSPem24RvwxGtjSA5YHM"
+    },
+    {
+        "name": "Gloom",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Grass",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/Fb9ayilTssnY6b3L0O4miGZXNMkUChRPT1TCvMJ7Qj4PXk00mSsvqk09ZiqpTydnWDUc25MOS_DwlrOcfuu0eDoKx23Wpc2tQu_NNx5KQSwR1QaeYA"
+    },
+    {
+        "name": "Vileplume",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Grass",
+        "rarity": "3 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/7xyE0EgO6jcZpPXVBOETBxVDamfdTasD3pZI3HwXAIXR422D9ntEny2R87yzQKDS7Rj4Yrfr5ZH3Bi6Td_wXS2ILdViJx1gN5MlejWQqJxFxQPU"
+    },
+    {
+        "name": "Paras",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Grass",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/feMABt0W-9NR2avwuPDD8ntq8GPu9skubi4_E5tzlLr_MIlqfagoOD-dZ01xlh8vecGboB644Zn9eBBZ_8ASbi4NlvNvJ8E0L1ueLktYhcFiwrCo"
+    },
+    {
+        "name": "Parasect",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Grass",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/Mnza3IZTDLt4IHVsmJeOUPUMcwMFsGfkINOPW_4Le_qG5sBLvAfmiGBkmCbxy6Sd88nkhwBqt5pO4c4i4F7KkY99ggZPgzbIex_w_MpiHG9UYVvM"
+    },
+    {
+        "name": "Venonat",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Grass",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/bdoU17o38WN-xMiI_C7JgIKCmvc_1A_MHVM2QiP4rhrJCff8nCMNNh5NdVtoLzHEn8Kviq9toOxKNapO1s6elEGBVOXvT2SjUNHAXnbDgUBsD2c"
+    },
+    {
+        "name": "Venomoth",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Grass",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/1SuexAgt_dWFlwqOtf3mCNtrNjjMTGZxKizfLiHdhkMD52S7-rIvthlNRLQRSUVmtlXpT-Xtd2h572Nc0de-oCTo1F3hz2ajcYh8mYAmsi60wEt7Ww"
+    },
+    {
+        "name": "Bellsprout",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Grass",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/rrOg_NRZBZRhCv2FYoiM0Tz2bPLyeS9XEmqdVm_2NR6YvQ73vPl69Nfeosvp-BMZmm08AKmVVv6kdpklowOnbS_sWuHT__RqNNRjIEL5QdMG_Gb3"
+    },
+    {
+        "name": "Weepinbell",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Grass",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/TN43zVeNfujhgpazpsbpX3fz5gFrFlQ8zJkHSJepnosFpNn4uCoWHV9HmFA_io4RH68GB63P2hC-nL3Myo2hAgcxfbEj6AiFuZf_QGYQKPOc"
+    },
+    {
+        "name": "Victreebel",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Grass",
+        "rarity": "3 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/jl5hBXPKzANrqxnNo_AW8i_J9StP9sHYZVlQ0ofJa0k0bGIcMdGyNarDxwZTb0JaJ3qLvuMQJG9OM4inevIgihrQVShpBXXyPGyPQiFjJM7zRXFs"
+    },
+    {
+        "name": "Exeggcute",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Grass",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/8jcjmNNU67wYyKKEwRQOQnsvgQh136YOyHK-MncuuZNa7reuCE9LchokF7LWUjGKegiKv0MwTlLmTUCK_CZCC8MG6kPVO8I1WnF3IepBFJv5eyo"
+    },
+    {
+        "name": "Exeggutor",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Grass",
+        "rarity": "3 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/OD1gkvXYTdyixPEXeRHxr5uriMx5ujmZMF7Ik815NxVMO27e0FToVDRODiiWJE3obweG9ZcBLudoL57LSqnyMV6r9PuyePZCqSfuIb8UVwB5iWJN"
+    },
+    {
+        "name": "Exeggutor ex",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Grass",
+        "rarity": "4 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/8Adp3vXQReRsW-tiHPf_AWbh52bYQSoacb-F7BVSi8gVbklBG7Rxn8L_g55iCWbuaOJpoXlKmSqo8HEY4tT9Osbx8lHay02UjqvoEOABlRC0Kpi3"
+    },
+    {
+        "name": "Tangela",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Grass",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/gPIsaivzuCTmQE2ws0TS31isO0IhsscWbkl204RClTc0tY974_md4Jv8Q7oMz1hqgc0cXGkQvKjYd2OMhP71fBzM4Y1bKTR61SRww31VducofjE"
+    },
+    {
+        "name": "Scyther",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Grass",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/YZCJWsYG_xEfvKDNTlC2KpdTRE5Pk_p7o0kdqO83P_JtcKnQIVgkP9AESZzRUIZenUKfQMlnzZQorfb5-sG7JH9La43C03Z1TCsZ0XkU4BvEdB4N"
+    },
+    {
+        "name": "Pinsir",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Grass",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/1JP3_LvltEs1PrK3HmJS9G7VlXCvtgMvlQGeQeosWh7nUHotnpJYaw9QDUi0eiU_l1BescYGVwIfpXQpqhpwJUCNg126Vq36Dhunx5oh8AZ321DT"
+    },
+    {
+        "name": "Cottonee",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Grass",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/3Ug2es2b9iY7yVzENxj6EL3Ol1PNC8WS1F9zuR3qrdP0wYBf4KG6udnAiw6PNsdB3H_pwbB-yjXWUHS9qKF8MoWSyI-qlQ8inBJvetHX4Iu_eCzF"
+    },
+    {
+        "name": "Whimsicott",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Grass",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/nMpoQpcrWqGwdXjjKmGTkMx3in6fKusnXHSXMwAVijk4xot_UPo-TvrjSJfIyRXNH2qDda2xglPEcvuClbzqJGl57ZzKBv-0HKdz9zOwIauYMqDBrA"
+    },
+    {
+        "name": "Petilil",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Grass",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/jNZB1kFYN9gZFnFgA9U37DbPU39w_EU1v6uF9sk9pC1tnyzVT4CbWsbHmyFASVj2Xya2129Zc1x-HtbpFcoDa32JORAuRTJf63Z1-vt9p6nsVw5-"
+    },
+    {
+        "name": "Lilligant",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Grass",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/dJZyST74fTWmkBhPpG492MTJJHueuviS5rO_VH1CAczmHagFw4hYKK94S0LIYwI_p5SQeRxLtihZrDmHp0djTzGaLB3hD9pNvvV_7cjaJV8ki7w"
+    },
+    {
+        "name": "Skiddo",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Grass",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/kFVECH8gTAsV1Tc38ujrt3mme0VwwUrwV5dysX9hhu8Su2Ovgqy6zS-9lr09OB-aEKv1CkdCDBg3jxZe6FgpTvEbdAJkvYNyg6zXYFmzBJGqSP641Q"
+    },
+    {
+        "name": "Gogoat",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Grass",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/wxrYH8-olZJgxlozZGh9jX9KDEYAo6MuUHlQkE6S3HJeUAqt1WfPtwrPgC-RUIHOdB0rSof5zZLBSX9_r_QVg7lP4J0lAa-1L9duHZkloKwfr7A"
+    },
+    {
+        "name": "Charmander",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Fire",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/hYLmi36vFFOFW7HsqD_uobEMXrDjI1PM6oeLop-Sub35EC4VeEMZHahq4UXn6DCjdxEd4f-Ei9Ubc9xW9-ayHbHFbty8t9sW7k-LhQoVcBKjoO8"
+    },
+    {
+        "name": "Charmeleon",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Fire",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/_1SAmb0KtPOi6kyaIvwUcZaoV9jBApPLe4JiaN5PFWw7brgaTqbCOx46XQRQ8VgRbCbx9x1HKA64QzEURQG81H2qst3Z3rSqbyVR-0bMiotfb6EJJQ"
+    },
+    {
+        "name": "Charizard",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Fire",
+        "rarity": "3 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/P8NYdnroE6YdY-jCR0EDlXtjhYq28l59nVT_FFgLcHleLOdrrYZCJH6bgTegZ-e9yw6kvSgXm3ftbZRCp4mZBcQm-deDip1zlA1DMMKRmxEe58_6"
+    },
+    {
+        "name": "Charizard ex",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Fire",
+        "rarity": "4 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/eINtluyn9GQwrGm-Kr7TsEBWP8KvMDUyyIsh8Ujk9ja0bD8DYgtMFrGU5oEjaV6a5XflPddFsUzjqwOqGH333LK7sleLbFDHPnPAg3WraHFwm_Nr6w"
+    },
+    {
+        "name": "Vulpix",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Fire",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/aqo3Ck2DIMDrUhYakGhBBy3AYxja7bJCI8ubNxtKEbPY5WTu14nd6t0CiC91htIs6IBt6ShN2EmQF9V40pXzgartGAmsjvSaqQpAI7tQQWF4wNE"
+    },
+    {
+        "name": "Ninetales",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Fire",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/yiS5Cf7PI5-Ae9a5toZ9Ow6UVqWc8DEwHnagBYTA7v01HcTB2INMq2auPOpgbsNMedOae-0J4xN4zuWSQfv-r-BzcHRIX89isBnHYnFoK08h4KU"
+    },
+    {
+        "name": "Growlithe",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Fire",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/2yilS_QRZI9V-1Cj3Rk1941vE49AirGCEulE5w4rCuFrVhoS3rgPNmHkWyCJGqxWYwj1eunn_5dZCvDQX-FksqKTlQ1S4oel3vE4ZHV-0cBm1iSl"
+    },
+    {
+        "name": "Arcanine",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Fire",
+        "rarity": "3 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/n0a7d2ZFN9x7U1hCM0M-rdW4SmvZ1Csvm0groVh4bsv5P8iuOCQ_SsVWhxjx2-6ITQLdLscH9PcvIKpeUDD87jNyxz4Fsh_b4DoDekGLDOLJsxQ"
+    },
+    {
+        "name": "Arcanine ex",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Fire",
+        "rarity": "4 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/zxrV91RzVINMIbWfe55XLv6Tf5ApREIXo065amJzOb6p67AHwZ0_DW36TTvPzBjMAQcjB-Ue7YsjowjuxL6dGv2NFxbGJFg4E2Bubw64liTCJo9L"
+    },
+    {
+        "name": "Ponyta",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Fire",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/3jeyB66vXiX179LMtnx-tuL1A8_OO9uXJ2S6ltnDtFDntI1HWzrlnMTZMP9GemkGS_FFd9E7IpW2CLxbLjzWIv8QzEsiTkCiU7M-dpBATVNaiBGq"
+    },
+    {
+        "name": "Rapidash",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Fire",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/OHCempl2_mRBSUuEwOWJX91RfQ5W3Sv10RM2cnb-bTL-BprH93XCWe1Kjeyd9SdBRNw2VPx81Xi46Z7b0L8UDzjB4_gmYW2KbbQR9BseSkCH9Tw"
+    },
+    {
+        "name": "Magmar",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Fire",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/HDXUbGDC_rdqIYOm4llKBTl3HDJ4NOxzLEsJ-LTdwvz-SqJNogvSgGVN9NbQMfm5bK2lWckcjrQuy3B_hLz4uXGfYiXC5INpS0AwgoZ_W6WsrrKxAQ"
+    },
+    {
+        "name": "Flareon",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Fire",
+        "rarity": "3 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/794ilgxbXzY-qU2APxTgYDKdKiBWBpcjyrRKKy14XYbgRcnhM1xr9cO9Hi77uYj_WNnMz-wal6hdCPWra7UzykbDKMJmoJd0yKJhMN-_bgD9_8M"
+    },
+    {
+        "name": "Moltres",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Fire",
+        "rarity": "3 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/IaR1sG8ycUBgO9FMjwMa8vSnQvoU-odvabfKJy-x3Rwpb2FN_ade_-1iC41FnB0_7OksPf4lcWelhl-UeKlkMLwI5iceJPrRxgfFoIIp0e3pb16S"
+    },
+    {
+        "name": "Moltres ex",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Fire",
+        "rarity": "4 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/GJRMPDvAQu25XHd7TCvwYRi5llVtmsxGdAwdGSTSPZaI7VP42o5YEeqAqKvwyS3nXZAze_MVX56yhHT2C-topwoUXno5IvMhT-mxL_NVfn-ODEjz"
+    },
+    {
+        "name": "Heatmor",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Fire",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/lb6nRsjXyxbDavJ9KBp7kz-9tQg-0k-lsKpbS-zca7Bna5vOc-N_A7tNBN2l9BnTKTqXLjtu0m_zAPEsbT20fgxd6DrkR13uWbwShjVf_A"
+    },
+    {
+        "name": "Salandit",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Fire",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/WQDl0l2SColanoUhIDiTwJPfU0CkIcHkDREbKnITU0swI6vsQe72W7Cg34edTG6SmKGjFbdP8FDoMn3UgivRnKtQ0bDU--J2tVIgKgFusajsI8E7"
+    },
+    {
+        "name": "Salazzle",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Fire",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/wKdx4Gf_y5hcoK6YYIjXg_7Imc0JuESvcsel7NBPfwiwzAifSOyTyY2GmUHhk-oxdS8nvRQ5n_L9sIbPvNf9PpsQ3fIfSLTum0uPXWrwLA"
+    },
+    {
+        "name": "Sizzlipede",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Fire",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/J27JRIsrd6uLg4y1Rp8pipopB_Ku_KGvp7m_3XwFSrh33TS3663LbbFOxrKfmaMgEaJA_7lLBtyvypYhnh21Q8MpYRiC9_MkfFwAImb_VL-WJEXG"
+    },
+    {
+        "name": "Centiskorch",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Fire",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/2aFPxDj0wWix1MhYE_4pgIW1OzQY64X_khL6o-GFecQk6I5oiVgNqjknSEzmkGZBbvcqEwwLrVwAdctSIntWfDtWIvg3QzSjZji6CgunzyzMTe4"
+    },
+    {
+        "name": "Squirtle",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Water",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/E5Mz6WWq1jWb7mLTUoxSTBF1vraNrYhIBUz-S1VO4wWHoCty29ZwKz3pIQvHVgkhVkB1gaaFtSmoBwn_H9JPIq1iwm3o55IdI8Kav7HYExuY3aDy"
+    },
+    {
+        "name": "Wartortle",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Water",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/AFHeh4H2qOqxQG9r2JxX-GP5r7ToR9x__cV6HLh6n0lgYBbqHfc6eor824s9AgX_ID1-vbozehk8kV-TbboD8Byv-zApSH6cI013SiAISpJH"
+    },
+    {
+        "name": "Blastoise",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Water",
+        "rarity": "3 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/5Rk370Sy-L0jVcKr_NZxRg6KKAlJ3CNFvt9nwJiY7gYnDPovSHmovbdT4ej-Imq3Y1EIa55b8i7FLomljQtSkV-u854dDqv0WUYThGboXH3pLYbqhQ"
+    },
+    {
+        "name": "Blastoise ex",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Water",
+        "rarity": "4 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/n4VXYsUcmdJfND49llAWk1cV8va9WOEvVqIYkXkkRQIq117Fxx8vX75fAINpNFnttMJsgFBCOTr-b9e6UQvL9Jd9ai6kma9J1W1N6DQIp7c8hH_N"
+    },
+    {
+        "name": "Psyduck",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Water",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/MiVRbotUatzWpOWN0mVs88zvt8_qmimcYN7NZ_Ow5WXtrXzFJ4SbSDBcStw2IYK-pDfFLHhaMA9DN6pT9dzMmFmmndic3fE9P5bSNOYAiuiB3hCL"
+    },
+    {
+        "name": "Golduck",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Water",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/aO_s8ZyzstO-QMTgOjjs7-HtckFnIAisgwaVCGDWhkCxGa7HYRQGDyOpQ95qXBk81OStxuoVqC5tW31R1Zb0nWfWNyYbA0-HwAcasioufsPO22Fs"
+    },
+    {
+        "name": "Poliwag",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Water",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/iaczUh0PzS_wfHda05w-FZDUF2F5-D20bEJ5RhUCMDT1zXhsLSE7pblQrpAKphNVoEQM179BvoFt7VWG8MKU_gSsf2eXx7RxcEgyHkC9ybyuKYf0"
+    },
+    {
+        "name": "Poliwhirl",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Water",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/_UonE92zmXHEa4fh8m9lYhSHQxe0eeh6hAjHMcIfBQAeNXIQT_enOMJ_fC1GHdpNmnKkZ2_JD5h4DZAaRUwcT9VTArqoYEW_dcIXV_VDSssLafA"
+    },
+    {
+        "name": "Poliwrath",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Water",
+        "rarity": "3 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/J5ojE6hwHlnqHYWLoxufNhM6gsgUYW6ailDndRvp7WBfOiqhNUugxTUDmOwiwMCj1F0kFAriQ5n4o1CAlNQpIMsPVCQLz0GTRB1liF-XHL0cJTmB"
+    },
+    {
+        "name": "Tentacool",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Water",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/pkXN25PxiVpyNWJh23kr2NCeAg-1zjhLJI_JwIoZpdY0VpWTmYujSbK0fmH674i2y9hJFhsBKp_y6okWnpTAsTgQLvzjoXuuDhTxeA-pNOm6WmVQ1g"
+    },
+    {
+        "name": "Tentacruel",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Water",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/QLO_B71d6k3-eQ9aFucgDnWRHgox3UZXLqOnKbx4U17K8cJXRpz9ap7s0RSLj70WyJZKia88Kff_2nQHP0ONZbJE0-UqT3IJmnChqKuBDXa_DPGG"
+    },
+    {
+        "name": "Seel",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Water",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/NIwooN7HMYmDA4r8lJPKhMW_nwmN-Cvb6PI-HQpq-UEzdKlYsoOerFBapa9IJQcYzWQ2pHpWs8I_lxV8LLPa6fpNVlcx1pOKDzHbQUYpkSihrpxC"
+    },
+    {
+        "name": "Dewgong",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Water",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/jPu3bhidjN_J6WaBOJP9gBfKvh1LiLcrljIHesgn0rGBMXVNSWMzG-_NJ_0vAf95u6FYRbUOhPyy5fizqoUiE3isF3oOz_zoNBvUKCTStS8"
+    },
+    {
+        "name": "Shellder",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Water",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/oLps0AdjGgCI_XX2rkNRttSQ_BFLwrjKwKSm4jbUMSsUc-5B6rWoQA64gAgXKoj-GFXWrIWjJ8iPmcdQtZ_quCc0qivCz8UgdZYJfakID2Q"
+    },
+    {
+        "name": "Cloyster",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Water",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/vqviItA4Sp8njp9XLHyYKeEd2mnNUT4t64yTd3rdIz6ejTBiIWDF8dCszRvzxY4OsvN-Ui1tFBFQXUH9Be-ZV7w-bpgK1KUbFn-WkniE3e5N5VY"
+    },
+    {
+        "name": "Krabby",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Water",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/Y1Fb3ZeE_BsI7znFGUXE_dNRlarcgLH4M-X3JGpJ4JTQq9vVAzc32WBNX9wZl783ZVWv0BbFfefYC4hM2jtXi9-NHx0ONuwcKoMl8e_XT1QPqVk"
+    },
+    {
+        "name": "Kingler",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Water",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/VufMARTnmG6UDbYfzcHCDoVU4XKqdUv0e5b8iZ0sF8Nbm4-RIBWD_22l0iwCjK8_5dHnXuSTggsUwxGDYP_bSV5NOhdiG5RoRwMwB3CdoI5fn5UG"
+    },
+    {
+        "name": "Horsea",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Water",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/wrymdp4HQaDG9NUxQo0n777ElK3syhfABWmhFkqynAWinTj5IGgScergUaLhW8p0QIb2Kv6-jughIXGFrta1XELiWkJ4_2Pk7vIr0qLRJa4S3Hjwjw"
+    },
+    {
+        "name": "Seadra",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Water",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/zGBcekduAOPrk8ehfzeMVTBgyIKV_4emLooIktPASjC4skl9R1tuRNx7u_-fnyq2bY6-ozT0JUlQcnyfhk8mLl1-S1zx88YB6GYsybDfvN52htrR"
+    },
+    {
+        "name": "Goldeen",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Water",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/zh2HAsnNi3-ZCKiL6H_IJHukXQ9YcoDlrb4z46NCRzcRPZkhuB_f9VQYOY3VUslb5p1nuxF1ZDh8MdZI_CEl35g_F8Y4sZO4e8GmPFsIcPbUH92JwQ"
+    },
+    {
+        "name": "Seaking",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Water",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/xbh9Gu31q9y3KbuWRQLtDitKRXsZhWizE1qvryRi1tIVVfMlMPQdmBUY8fHSf13AtPb1nmSK8udxmXONilKBTTzS7WPpT3ee3e0bNfXjmMLW5p7kVQ"
+    },
+    {
+        "name": "Staryu",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Water",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/RQL1jGiacgTtwCORrF8HmdZif-AxXaEX05ys6gccQd1zIE6rVcOuHHENDthsWsBOQWCgTK-SNbTUJ63Ah6q4vt1YATJ7SSX_psZNe9sLfXH2Kcc"
+    },
+    {
+        "name": "Starmie",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Water",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/y1qfZJ9oHfD-eWNe-go7yqhgE4wJ-A5KcbUKTjTGheDadtCrHvslATtezJRLbIRXzl1qOyB7BxA42WdQtyP2MYrdmkNTJjmeIfaEfIrTFKNvnLs"
+    },
+    {
+        "name": "Starmie ex",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Water",
+        "rarity": "4 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/RpL0uGiGJSeD0EYpIwy8bIkBn1GCAhbzT47Sjs5XcQ7H4TnuyrM9XyBgx56zdf4QKKrfCsLWkOKBFdGwqNIKDEX8s9tyu3I9ihmpmPoAeTdRTBU"
+    },
+    {
+        "name": "Magikarp",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Water",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/x_fAILE9eFmQ-kj2_Gjeu-dZq-17NfUTR5LKVdxsypA9UuqDfGjvAY7PaC-ygSSgthVQT-j_Qz1Z6Z18ZfaVhfQKOVD29eNoMF1aN6_666Shkz4DGw"
+    },
+    {
+        "name": "Gyarados",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Water",
+        "rarity": "3 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/G2C6Iv1XPu7y-re9HXq0J1TJzwmriNGbZbIZqCiMc5_kHmluPG81voEe_P7F7ScmhvXIEBxaLYTweEgCV5mbU0gp2PsWIgQij0jmrazHWTefp74T"
+    },
+    {
+        "name": "Lapras",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Water",
+        "rarity": "3 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/yiwO7VN7wJfh9nm_YWIT9u_xUww_Tz66DPLyEItp6iGKZxX32oIveofIFlOwnEV2hdvOejPKPInI9Jwf4jzKWKVjMrZgu04lG2WihGZd-JFLWlxL"
+    },
+    {
+        "name": "Vaporeon",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Water",
+        "rarity": "3 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/3AFYc0LcIehQqQbhwdJhFohkpyHv1xy47BmEQ2UyV5dD-yiqRQf3h0IpdbRUp0m3Bj5nsIV-uCM3pYnJwcP3KgYyIPd8wyFArht2VuWKAJ9K6k8rYg"
+    },
+    {
+        "name": "Omanyte",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Water",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/n0pKv7hxI5rvpwtCjODTvAZTn3GbwPFaVEOWQ4aPxyz5-h2YME3CnS2GX1YJZKr336UdtAp1-NvoPK3NfUtAgS_SbIYbuJHzdaHzVyaVplMISWbs"
+    },
+    {
+        "name": "Omastar",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Water",
+        "rarity": "3 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/Os0H9PnhEl1NJOZl1pcTyfK1WEGyCKNfwnqk3RhRxEt9nBw4iL-V38vSKLSObTEWbQWEyxJ0tpwWSJy6qITkI7Qj_ocgZSbgZ9GnMJcEKcJCzFMX"
+    },
+    {
+        "name": "Articuno",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Water",
+        "rarity": "3 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/AJOhoWHndE8V67zl8bEQow_skFr7nV9v4Khn7Mde1utSqiesEHeuzLm-J9r4QFyRoO3XIyguAGJRi0uL3Nia3zCJIi9cSQIBV8Vu6-K64qImWnUO"
+    },
+    {
+        "name": "Articuno ex",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Water",
+        "rarity": "4 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/oK-qhWgSOLYjAZrh0TFZOoR-nBlva_YP-9ZHVOye0jI7AdfFO32psuA3YYe5nFyht-8pmlwgLsDxd0MYkbEJnpRmdPrUGgEho0B80sPWCz7Wi3o"
+    },
+    {
+        "name": "Ducklett",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Water",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/bMwSclQDu8mRFdRtMbv0__EYO3eY-8W8MFJCtJXTpHbMZgHHxV8gTqUgGGJI_OU6wPU-77uNgI1iukJj5CwlW4BKg0NAnD8ljASrkZEUGn-8kaWo0Q"
+    },
+    {
+        "name": "Swanna",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Water",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/ysOg5hyjKmN-5CsO8iBhq2PA-TYiIMxGqBB4TGWWCz8C8b1s4bKRja_ho1rDJkqoo8v7aXEBVzP_ussil3CCZsvq9TUvpGGw98lHGIfCCOqrw-SLcA"
+    },
+    {
+        "name": "Froakie",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Water",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/6VKdccwN-ESmL_vuw76moSTE9hLghN7K4l4OLRpZv7lk8Z36yFcEVSl9VHWmGI_03pauoD_PNnenhATc15jhsQaTBi29Z-E_JK7lZ_FkKlbwTQc"
+    },
+    {
+        "name": "Frogadier",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Water",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/r2PRolQLosvkpQeT69L5mlZuuzUaYdVaFUAQcfUPduCbv8lQh3Ie-Am8pQ67NQMPp3YeKA3_FZNa32SrqkXOKEmQpKCAaCh0Lz7RHtLsEU-IX8bQCg"
+    },
+    {
+        "name": "Greninja",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Water",
+        "rarity": "3 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/DbqF_p4b2rQJiaKu8EwXrJC1A5jDzZ_aNr7soue353Jjh-iFK4liASgCGXyhJweJsn2QGzjpFcLCUmGW49CDx7RQI8CYlFNpHY8RL8OSzfEv8eJf"
+    },
+    {
+        "name": "Pyukumuku",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Water",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/e5Vr4nC5UhF_ftZpDnp7-nz7T3PXzDgGkTMsV5W4xOYgCThQlbAKJ0kPCLmcjxtl-WY4tVjxMYr2yUuHiymTjmXOq8kmGztKfLFaTf0nExXiqYiA"
+    },
+    {
+        "name": "Bruxish",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Water",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/_ELXGcvxS3puGEMquUAd-GT9yq14Pd-aF1PitGbH8rfn-sBfkb27UOSdcLTiDZF2zGiYLInFvJ95XzLGH_-iEq6qprfzs_T8jd0aYKdJfMg"
+    },
+    {
+        "name": "Snom",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Water",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/Iaz_1EhCA-1FHKnbuRtvhUVEcyXoEfwrHhm1_GsdZR_oJswkYK5ElzxNshOTEYEwyve5h8KyLo2DxWJc3YmmuMdIb-Ga3c06rI2n8GIlWcf5"
+    },
+    {
+        "name": "Frosmoth",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Water",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/8d7kNrzHg1SEMngx9eIAiSnNw2OUHvEEPpZokuO5tq1X0qPT2iQRMaXaq2wYjChp4M3NJeClNuYrsIimysLIdc4bqNWqi3o1AKwarZ3dzA6o"
+    },
+    {
+        "name": "Pikachu",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Lightning",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/qGafS9q18R9oSsnAPwyu8kkYn9qIscZmcJb8WGlKCLTDNsYaPxexOHe7kGI5YZ2sL0HBh8zD22NEnS2phIYRhP7n94HphMwre6wApwqXK18"
+    },
+    {
+        "name": "Raichu",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Lightning",
+        "rarity": "3 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/nBQT5zbVdPNIuYIrJm8KQyhPBF9gfJlryFFs4KZiXsUMlTD0wWBP_dyK57mXe7f7MPBjogVca6hqgmttFt6rr1t9yuF6ve9ouEla0dgjWJdu"
+    },
+    {
+        "name": "Pikachu ex",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Lightning",
+        "rarity": "4 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/AjO5mBJNQM7XwfxUS_sDoG5VDiuoaSIqrZW3Puvr4SWl4TZSrzCrb9nQOfLaPeyyzhTIvTQ4JH7-Ib1lvje2BtDZo62bTwMuLxnqvB8sPuHbWtnp"
+    },
+    {
+        "name": "Magnemite",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Lightning",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/ZUX1f-eAUGhiJiBs-IzvT7FgOfKH6U1lGl0qWskmy-DaTgY7tPcqXIN1VYVFVcLzP0wh2KBBjMkJq5VqJKb3XzG4mzwOV04q31uU5DaNWQ"
+    },
+    {
+        "name": "Magneton",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Lightning",
+        "rarity": "3 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/73l_w1Kc8mgotFv1irKC3tosdGLb5FMTsVdp0e-Z_OVLQbD4vFhIdE5xCnyTB-nNGoIHNJlKI_4nHR_9PNMlJxaRpAoqBBrapOkjBXFBx-0"
+    },
+    {
+        "name": "Voltorb",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Lightning",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/gPPp5BGaJQIoRuMJAd1vwyhev6fD9Fq88PILjRufi2HRNZhl8S-O0zbRK4XTKCbl3cwRJ4szHpkFhGEx7rdM15dWq7YgIUWBZcNjVBLDzw"
+    },
+    {
+        "name": "Electrode",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Lightning",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/11OhyNLB_AhLopE2PonKEg6NtCvYrLZBB8l1Mm8qydMUcs9rk0GSnKZXzm0_vLO3LuXho3wF8SoWgL1nAIjvPsCfVd1L-A9p7SU0z84lOB6BMszOdw"
+    },
+    {
+        "name": "Electabuzz",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Lightning",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/yYP-OuxRW5bO0kBdfcq8LWTqHxMokBLdXd05uqDlS-I_T4uI8FdI_pGvahMTtvEFfmagAW5iyJ_WXt8BuHBbY3Isj_uvEfaz9COOEi1_xIv_"
+    },
+    {
+        "name": "Jolteon",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Lightning",
+        "rarity": "3 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/G5s8Q0ZKw4DhqwkaW_5w5InT23jlXcBDKktPos0VYRu_ARtIVHtlVT36-PF83IAMZOuNov_BCAhKwdbmsOkcu1MBWpU4gYlvARsm2E7yvQ"
+    },
+    {
+        "name": "Zapdos",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Lightning",
+        "rarity": "3 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/mX91ZsYV-aMUAKhJ45RYrF2C72uxePYWiPtzmMT0HbLl6ORRJkSYzv07eQwVKSmJMG0NpwuWbl0mLadAGwjB9xCtOMUKj2-3G3l509X_kFUJ"
+    },
+    {
+        "name": "Zapdos ex",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Lightning",
+        "rarity": "4 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/cplYcf0PqvVc0WrNNgTmGsNmZgNy0diy5buSjdcp32CTJ-fh5CRW1V15zN0vtdiPcDpQEW5K7UUXRNiCZjYNpuHG1TvtbMWY_23NL1spRJE"
+    },
+    {
+        "name": "Blitzle",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Lightning",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/dZ13WZd2k8rp_4XFQwg65W40mIPKYE45zAM7A6fdfLMS3dqyAAGO4lNDITwJMW6m35gCd_wrxDnQr3QakvRKETW9PA1McbDUkNOwaaqlomM"
+    },
+    {
+        "name": "Zebstrika",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Lightning",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/Qkxw71U9wSBi7Xjaxejaqmc2HnFpOc0S_qSMDWCczbyZJhmEs5hDCI1tqTPE9siK8OFlqmxNuFJoPyGdoWceUtUTSa_Mb8nX9Y7yqtE_DzD1fawSCg"
+    },
+    {
+        "name": "Tynamo",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Lightning",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/3jwKZT3rMOg2cghh4GxSvc2zZH1crXo_j8B9o3WUQheN-9rqVEQALiCIHui18iCnxOOgnxbd4vUeOxoYXvWxdKGkgXB_CRr2a2nRQ7LiipI"
+    },
+    {
+        "name": "Eelektrik",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Lightning",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/TQjHyppTSpI4oyVyOnQokK8h_5McYZnaITfjZ6c_zGQr-DICAFAp3ws3fWcSGuy5Oy057nogEWi20KdsiAYeNKg9CoGbuLqWCwk7_a1PTfE"
+    },
+    {
+        "name": "Eelektross",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Lightning",
+        "rarity": "3 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/hsDv_nB9iOF4h8ARm-Wwt6vhzTVsvgZtNZ1jfoM1d4DFXN853itLEHQh3oSLtX8vTXokSwzZj9BxJNU8bNyJy-uGD1O3j45LXpPa-UIccZsV"
+    },
+    {
+        "name": "Helioptile",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Lightning",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/suW8yVKQY6DpkKIFDO_P2QqDZspwuocEjp-VBWpWbWH-iy-uW6SXLQHmlGXqRNVlS_3rCFkEowRY9k1EGq3nNP7HaB0j4rJVuYVTwpl5wQ"
+    },
+    {
+        "name": "Heliolisk",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Lightning",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/ude5p2mgp2ncG7to5Ofncon1v2iUJMQBFENN_7tYgX16sLo5Lg4iyDicp1KPJ5Dw6DFpCVDhSriuwIaopZuKiAtyyfu6nu-U0BO7b4L1XDdz"
+    },
+    {
+        "name": "Pincurchin",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Lightning",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/M0MsF99FdaAfu7oowGcbyXD_qtx12k2yqMZOpCtakMkKf1wgOjf2kH8ek9OpO5dWGzflZ93adAFh8WKNMwQzkT34NFkdNXSyYwd0kuUoEjc"
+    },
+    {
+        "name": "Clefairy",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Psychic",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/JSBRYKgL1NRH9ypW2PjWKr_hwIypyceVZEFLnXBiTiYn5iM5JNqXjLnsQ5btzcRLaf15me8BjaHm9ZHFF72z-XSiIEDrZ_kfzmDIhnpTJanbFBP-"
+    },
+    {
+        "name": "Clefable",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Psychic",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/SQu7-T1Zo3sN9PYBQLycobesG2svryK1Wq38NKdmBi1GJ3hHHKY7afP4XWKkBDGYdhsfHlRXJBHOO32AoI-RXt8jgiy9w2bcBYTcuGIkNJY"
+    },
+    {
+        "name": "Abra",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Psychic",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/Uf4KgJfd4746ygXzvSKydb7FwA_s71Yq-D6EpOO9LmeI9tcjvN37-tn-10apvhpcNCoJx-XtLHYnQmju0oY2FRVSynC7eCOir9CddmSkZoDh"
+    },
+    {
+        "name": "Kadabra",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Psychic",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/J0PrgsBRy4wX73Ad_1yByHUa0syAWi3JpNf2gWUEYURqtGI37bxxEIfDzWjS7tbpsQobo8mDd15Mr-OCuzSqcpGMHZ3AtONiGMYXG70YsXZX"
+    },
+    {
+        "name": "Alakazam",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Psychic",
+        "rarity": "3 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/euL0qt83-r0TYitNdGMyYwl7T3SEhkvWKaYSfR5vaZfcorkdocDHplpvl6I_Ry7P4d-x0oET6y95ilUW9G_ROtMMHGy9LI868qYSGut6dnFL"
+    },
+    {
+        "name": "Slowpoke",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Psychic",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/ozTxBokcMsKKDe6P3LC6zFFVjlQ1mdHutFL-Nb20qv5D0wq0Jlwc0Dm2AAytpImVSGI5HKlCTPXsq_5i3M8eaUryDZ-djVI_JqGMaUW-RWH4"
+    },
+    {
+        "name": "Slowbro",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Psychic",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/L42gR9pwu5389hGSUZZ9fiFCuVhbJdCtufrs9FG5ydEtD5PNBpoEEAsJc_Qkay0M9z67XQfAifA-b3zdypkieqN-B37aM9ndA8NsylEMVAk"
+    },
+    {
+        "name": "Gastly",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Psychic",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/jWnecLVw8pmq0Xf_5oTnZ9wVC7pkC5LMlIKPlrlc6FAUS-gVAN7cEQ8_Fb3_BcT33bx6gLrrUjRJjXu_fBqz6RDqJyisd8m1onqwGlMaOA"
+    },
+    {
+        "name": "Haunter",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Psychic",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/Ic5rEEtdXs8DBT-BSjP7HADCTOlzBIfuegJGsDmd-RXL0Uxa5-Ea93vFqFpuJLPUFe5lWGD0nT1W-uBY3ct1uHtfpF0FQ0tFF9CpAXQmr6B_e4WU8A"
+    },
+    {
+        "name": "Gengar",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Psychic",
+        "rarity": "3 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/zCCdFnFFpA0P86-lnXzDV7Tr5VThqJuvwFO7GMKHAz46MrolxJk8prQSu9bi0Q3GEPUqfmfvFYbn3Q2xtyPFIYLUyTyaxJw8dOsieSNUWw"
+    },
+    {
+        "name": "Gengar ex",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Psychic",
+        "rarity": "4 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/8-v63exAAJR0z6fg-Eu_eH5GSU54jLErb47x7pvoR2tQmc2eLl37vKCDTxJtFI2NMDR1uYUdFxeSbE9rMy18K6HxDIsEWKbPyXZ6BrZNNVs"
+    },
+    {
+        "name": "Drowzee",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Psychic",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/Ay8XWcLZ4fsxH7sogP3UsKFurl63MWCyZCJypXLbvXS3PxJPNqaTEStUZKvkVhoU-HEIWfwXpi2ADu7MX6PRrQSPbfA53dVkR8w8PJNqiciLeuY"
+    },
+    {
+        "name": "Hypno",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Psychic",
+        "rarity": "3 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/hxk2uWEFra-xKr31jctDUBRiDdO0eHCUuG0Nvm13RTRsnzUQ6ywqYNNpBSeFPcu6lQfNE4euoY14iBUswyvw-Yo0eAtetv39b-SbH0247HxOuIOj"
+    },
+    {
+        "name": "Mr. Mime",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Psychic",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/WZetIOvwHOUyLM9We0jqOG6ktaMZLzNqRHwXEjl1gOorxoaZljAyH-_d9pQiKeMOcovRd5n_xHxzVpeRutpTK1bhXeddYOg7awIIXf5Jj6bv"
+    },
+    {
+        "name": "Jynx",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Psychic",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/68KFGdRLRIIflNRHoNFDF8Bbi0beXYTeootfQmKA5v0g_SYzHfVkQLKw8Cd3wH5DBhcXFU3X3f3cclM0_Js9hGeVgin9FuqnoWlspkQUoLWn"
+    },
+    {
+        "name": "Mewtwo",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Psychic",
+        "rarity": "3 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/DK4GYfmYj5OMmDYq6jhDTXDCQXreO4_C0SEpFWcxHQPzOXFZARZpk-VERfu7TUv7XeNf-lK3-YxxQjVPcwzEu5RPQ3bGxVCuWY-PKTyV2_pxRR0"
+    },
+    {
+        "name": "Mewtwo ex",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Psychic",
+        "rarity": "4 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/QDZZcx6DmY6z84U6GE1GQa9Zo0tgdR_iG82ZW5P4PMfW-qUwSf0WSTVxUX0FDKDzyxYiMu2vmoSK1i74oIyQP1BxJcDgCN6FdguFWpYGGZoq"
+    },
+    {
+        "name": "Ralts",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Psychic",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/f6EbAWURk9lHoX3WsKYW1tJFBer5gIevAvWMgsx7yFH5OaWJ-P1VDm-f3R41dgixSWxCHDFPN6vRS5UaJsROJOgC56idj02omTvYJmLFDQ"
+    },
+    {
+        "name": "Kirlia",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Psychic",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/H7LyKmI24oMFCST24mlakt8xs7FoLnAhOeQu8-AeUa-KqUiTrEkgHU9iT5j3r4xRg_qgA0lLe6FA6vj141m0KTsTUhlhEODmZ9TRn_6GjVfS"
+    },
+    {
+        "name": "Gardevoir",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Psychic",
+        "rarity": "3 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/w538gJcGAr45uIP3vd5FFeDErwCcSTGabbk0zF4lx4XZUJD9QnZuMalotnHlxGnOqRAkUWL4wxyxQHcdKGxvMuLHZlg9v823GPukXqcsjl0"
+    },
+    {
+        "name": "Woobat",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Psychic",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/H5mNr-pylXT_gyYUvlRvzXH7b0VwmXIrqn3hgQGX5C8A50FsoSBk_zeJQrf28Zp3ln6SaR-hkcWnHjb2JA6DmQxlUfDdzbCQLopeZjUUvQ"
+    },
+    {
+        "name": "Swoobat",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Psychic",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/ZejnAKuX7gZFfB6I-fXbHjjf-GjZ4C1MO1gewF-Sm88eZ0tIy9MWvu2Vflw1zZ7fN5ifPuI-X_mQlAy_0TcNJIRX2AB1Fde8E_fl3EgJooM"
+    },
+    {
+        "name": "Golett",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Psychic",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/KcYC4FDfXt1HdM3DfsWT1wrl60eE561Lrr76RUKOH0Xs5YbQMU5-uZQ8lnw4iMu7lfVRogbRK6FDXAHzDIV-P-EN46sWUzi6MLVHU22Kug"
+    },
+    {
+        "name": "Golurk",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Psychic",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/rT51xr1Vk8nXeD_-8PivfBSVFN9nUsCHsRr1iAAKnrZc2j8sfz6oD8DDmGKx7oKfG_x6BiwGD6sXzhy03B656fq-ZaNfcB-cLRigDiVdnQ"
+    },
+    {
+        "name": "Sandshrew",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Fighting",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/kaHf77sg7NCRj5koVHX-Sz2jYmb-TTw876HRDbjg-pDjHUU1eqUMSkGK6qW2XbEb7PDTEw5zc4okUwj2jrZnBoHqI3R481M4PydwlfGJbg"
+    },
+    {
+        "name": "Sandslash",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Fighting",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/1GUF6qneKQIHVVNNFWPku77e2JVwEq1lpbvTw4yQ2p0fGpG8Q5mrCqwXK-hqQ188BwBfuQGsCq-Firv9lIagicRpeEwgIfDlBatUEZAhyOU"
+    },
+    {
+        "name": "Diglett",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Fighting",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/Unoo-z0jo-KMUh8K4P9NX7Y88Jdx28o8nXn7xn_nLhhIg0e60YQuY8NQrj2ec7mOJ0J0ijRJlVMx7dQLH5XJW5dSVqQjl2VY2WwsVQ8PqNk"
+    },
+    {
+        "name": "Dugtrio",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Fighting",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/EC9GzqTmr4nTiSaleME6MraipbeoRIQRY4GGz-qcOBJd0M2RezDOO-T021abdGk9cl9Ralsl8OIb5_VquZ_xNsczCh_-Lv6rBuzLe5E8QQ"
+    },
+    {
+        "name": "Mankey",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Fighting",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/EFwcx_1enPP6mVWyQ7hEjrJi_5YEMjwy2-PilNtCUQGGdf7KRUgTNtHgZCNX_yzUZQlPvZYdR-cfAkFW2kZ1dwV-h4mUDM85h9v9p-1eNz06"
+    },
+    {
+        "name": "Primeape",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Fighting",
+        "rarity": "3 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/rdQhC-Dct9SGMXV3pdio-awN5WfBeYeNYg0fVL9s99luOit-3d4uhn3LaxgYv1VG8xCqq0HsBYxeBB31Ew3MTUVX2K7d5YasDpnYi3wbQQo"
+    },
+    {
+        "name": "Machop",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Fighting",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/OpL00ZxuzcLqSOAJb8BGrZjPGeRQal-2F2PKtQMEqB1EU-GoVIJcwGc-_aloBQc3If6vSIXqvmlK5SZUfJsrcRG7guxG6pO8b62s7bAYmuEga7k"
+    },
+    {
+        "name": "Machoke",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Fighting",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/waDQCrXsuzWxxkW3FGF9j_j4PfS39tNkfo82NgLUv9-r-IAcuIMWzZE8v7Bijb-GPEshz_yH9zRCWRcoZVV5BWVeyPESxa-owh9BGPIh394"
+    },
+    {
+        "name": "Machamp",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Fighting",
+        "rarity": "3 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/wLf7wO9HjMwpcA8euzxsszVMMnTCLDlcNH6U-aEQwXcxvbIIJQcVEjTgLUWkwdSNIaQM_H4FTF_WAbBQ9sUMHj0yrw398DZB3Kqa6lAQySLg"
+    },
+    {
+        "name": "Machamp ex",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Fighting",
+        "rarity": "4 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/2vfFuEcSksNzpPeX4cgdO6wAHgBPeQ9dVqvPnhly4rTPjbomdZzL4jWrZUwoGPOT9uiuklTpaWFClQr4rwhrziXtbtil8yLo_B9KlApY_Gk"
+    },
+    {
+        "name": "Geodude",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Fighting",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/nkxTQZvDca_y7yN-Jg6pk78VOXH3LXPaLwnelKARjmno9-CalvvOLHMgVw6Mv3u4kbsfpSG98VlLayTliRt9MIhx6kRcUhgWISLxzZdfMKdu"
+    },
+    {
+        "name": "Graveler",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Fighting",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/jQ7XgdTsZf-LJkW6xUvED6niMJgdGG5-BEx4yCokdtOm82oLrcYipm3vmrIP7SkK9FU6SSz4HQFZvaUq59-efAwwbO3q3F4v61A2xoyAjDvD"
+    },
+    {
+        "name": "Golem",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Fighting",
+        "rarity": "3 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/_IMetxLmwDuZ0DSOnPJaFShg_zflbT3OnWAwSaXlaKMLYaFPs9fDMCrOx7ffHX2vG3pwumDEPb_7KJeJSOEhEVJ30Ma3K7r1qJnBHdA6FCV-"
+    },
+    {
+        "name": "Onix",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Fighting",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/Cx1XwlwUoFHFt3DjlQKV-JLE6Op4xFY9TN9__SKSR5voIX2vmQRIB8RXR80iSQonl1v54akwWfMijlLHbPd4z0N0jxVoGoa2MTlVKbt9"
+    },
+    {
+        "name": "Cubone",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Fighting",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/NwqIRtV-fWHEYTH4Xbx84XCVM85tcxRtdERdwBa1_g3nMOknYKNq5YDXNlgQ3K9XgqpnJ3XfFjM_SE9COO-xohIWtaLttCv93lgQWIyIcaa7"
+    },
+    {
+        "name": "Marowak",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Fighting",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/MBLJ3uTvDb_m3Ha4XhNuRpN9Egyn8MisfEJXGZL1E0o6ZMQe35R_vj5xdlm_LqSiMfpyazkoHB2y_iwLUs-xFa5Px1TCTZtpzQoP1FnVGheNVpx8"
+    },
+    {
+        "name": "Marowak ex",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Fighting",
+        "rarity": "4 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/XvzBHAvLXfdU90V9C0Sk3hdRKm55t6_f9TXVBOH_-1IR_rSvj2nWlMaBKXxR7PU9ZKlxSBiosE0iyGZJMLGrXlpxp68yfUeKwRKPoIGsrQM"
+    },
+    {
+        "name": "Hitmonlee",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Fighting",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/13tk5joUn1Zu6ks93nEZcQVCnrnvt4hkegLOvEDQX9FKf_o7ChmLqGiWA9bgESjjGjbW-45c8CSa2MErVpaojNnsfIs6csbEp7OKwgp3IC4"
+    },
+    {
+        "name": "Hitmonchan",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Fighting",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/Fz_KHnvhghGc0SA6bPrdsnjolhWbuJYkaaC8hsNm9nyqR4U7ZJCO9tFQRSvDKhUEJnvs5B63hxaTFIcf41aUZs4Os12_KJYueW7-D3ElDxV_j0sc"
+    },
+    {
+        "name": "Rhyhorn",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Fighting",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/nrtLIFvOyhPPnOm27RDvKLWw9LOo6eMZmfJvb1J88B5vD3r4uSUVuMgd_YI5xUaGylV3cHsKRlEQNdleGM7bzc2RIx3-fxaFoKI5v1rgIcU"
+    },
+    {
+        "name": "Rhydon",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Fighting",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/985VpL9VhJ-lDdq5zpMB8ESYqDVyJ9PqagYo7FZIG_kGyDbLh-6CrYwdX7tdmLo4Rz7PeREaB5JhnkdJUj9oMzoHJPEa09GDMSsK4pC2bMU"
+    },
+    {
+        "name": "Kabuto",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Fighting",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/0JDhzHHtdd0vGa57o2jFKSdsyMrYeA_nnrOtdHVpufxvPM5IFiCE5iRN9dAqwFNCI92_GhPLa9fSD2MtoATohpkrzpw8WPslETHNyFeywCA"
+    },
+    {
+        "name": "Kabutops",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Fighting",
+        "rarity": "3 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/REFRELLayxOKrzYMj-1deWtbgFt7urM-6FdLZ_qCD0QGv6YytmM_1YJ8e2Elo1_bGUo-1duCoiKRho_NePj2IBtjtwFckIlxWfYl1iN4G-kQgB3A"
+    },
+    {
+        "name": "Mienfoo",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Fighting",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/sm-0wYZQd1FOkk-BMmfVrriOrVTQcUY3FbiCMqBI047V0b9zJXg2N_VWh64h_RVErDlYQ8uf5alqu2QUu0crMywvZhOMwT0UW_-6k04KyA"
+    },
+    {
+        "name": "Mienshao",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Fighting",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/9ubxPFq3SdZcY0fXA76yfNJKKwwiAVk2hbuoESGvuMP0RRb8IGB8e9pfFMYQhjfbWtEtrcd6-6AMKYH0eeSPUE8aVfyG0iLw4BQ-aIUbM12O3xA"
+    },
+    {
+        "name": "Clobbopus",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Fighting",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/6TAtFenk1qYhD4aIk_1R_cuogKaYi1Sr-o8aRtZ26JKYcBBmGbaZu_9uzPfKB-mfLvXZiJCXw7A5Oi_qJjk2xNL2pjZ4dG8JPhz1Di-v6Ng"
+    },
+    {
+        "name": "Grapploct",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Fighting",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/q_zgvfRZr4HoTe8LE7DENyMVZ6v-C5t41QQ3pVLmtJw3BarFvv6U6PGri41P85GAmNg3pICQKvPOu_0Md0it8v6xG8KVMLaKyAlIDOvPsDpB"
+    },
+    {
+        "name": "Ekans",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Darkness",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/Wbvv4Jr5wFCjc0zNvhNfO5QLyEbP3w0qfXSHiwYK_DdVU_a1-oK9HgJbbWK1hGIpdVxMmO3VLiJ2bQeMBM9u8aU1OGuOis7wN82MQFKBaA"
+    },
+    {
+        "name": "Arbok",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Darkness",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/RTevGpWxsJ5sFG2oFGJ6bQVpX1b1ytO1FiC1mNgxFM8T5TfYTL_ARokQu6e8kcvmm8p4glojNdGQCQ7BwJBPjFy1VRTwHWJFddgwKvCXhEZhgLju"
+    },
+    {
+        "name": "Nidoran♀",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Darkness",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/hR4AOWLFwYWjF0lZm9gB5pKRU99yO8O56ho_BHdG2pJ7HhoRQReUSqBRvmJOVQh3lT1OQsJhRJmBTQOrRPQZaquDwtrQPYI-THJyWu1c2Bik"
+    },
+    {
+        "name": "Nidorino",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Darkness",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/wLDDIXSjgn1DVu7XqEsm1j1_KLO_kVxBFteS5rkSgOe5SgYHsPESGAysXIu0fj_-F6o1PKarjYMJcKFrUsjqu5KPaT7tW7fZ9cxMe8HHmQc"
+    },
+    {
+        "name": "Nidoqueen",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Darkness",
+        "rarity": "3 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/0E_0JIEe7rC_o5S0fiw4CdlwfLbGQ95mJJ7HNzQgpwYrmvCyOgsh_YQYOjTwNf93B-Vusa1ZIrljCZj6yrCAzOxSaTBtLpGMQ0HtOsre_puu"
+    },
+    {
+        "name": "Nidoran♂",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Darkness",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/1zmNTHkEqaZrE1yanYqxRtVw0OVUZX0US26dztVFf7yhZqjCeOVK1eWyOOAT-VL7ofD13ebkProcmm9FgaiQDWskFmcsI8j0OkLoWXRWH5M"
+    },
+    {
+        "name": "Nidorina",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Darkness",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/6ko5g4SpS1y-m7EI7n2oRyYrUC4c0ClHYUkht00e_Mso82EAkvxivSw9OHQBGl93_9CBi9hqKjq4tEq3replzdQtpk-ryLPIwY4lK1I3iK5VQYIiYQ"
+    },
+    {
+        "name": "Nidoking",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Darkness",
+        "rarity": "3 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/RJnRAfc_WyOoQpHujDRKpIjTDmF1SkAGgACLRQZo_-wIzuhb7sAGPoBUJYhGCs-U0EERrMavil5RYYx97JeovvRoLP7h6bKFaHJ8mXaV5r8"
+    },
+    {
+        "name": "Zubat",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Darkness",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/JIAdK8j336e4n3y7IXwFWS1t2kw30v2MDOKa-4f_Iu-tuE_bfd830qIbQYqCz8U6NPItliOJphIIIieLUeNz_5r-nVn2Yu7mfbmnrJ4XLKKf"
+    },
+    {
+        "name": "Golbat",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Darkness",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/5Ck0T2UT6CHA_k_kTxEUzV0tGxChMtFQLlDxi82ghOxWUf-MLBCdNlWgboT-32PSKn5fegSOYOivkvt8zpMO53QMawE8Xbc0HEcaOQroubs"
+    },
+    {
+        "name": "Grimer",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Darkness",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/RNXBUzYK8flb82Fc4wLPK-cs0o2cJQRk27LPA6miYuB-djiz1xC5gzUZ26g6NV5wAP48kZWWZlZivY9m1ANIeoWK78qjPctf8x2IysPNOhk"
+    },
+    {
+        "name": "Muk",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Darkness",
+        "rarity": "3 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/LcBACh_wGlXNBObZvbdq40VxqQPX5CGYHoREJyWYqYBESHkbUYu8azKlHV3evVvGRklhObvviYj5HUmDgrbfEI2qc6j1n0XOhJXLYYJgdXI"
+    },
+    {
+        "name": "Koffing",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Darkness",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/WKDRvzSTFRzqYW8n6T2W0P-kPDiJftJZ7A0TL5Bp-YU_x4QrXb51QIEriBEuATUrATPa4mMPrwHHIdJXSYWqkauITrW_2n1U-MxT7B2J7cM"
+    },
+    {
+        "name": "Weezing",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Darkness",
+        "rarity": "3 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/rJ2wb4ZemapQaq375z4fCL8U6ktGFEQ4Yy0a9WZyihu9GCQbagbLXDCoQzdgFPMrEn4yS1RYThWmWLv1Iq73wFFf4xMhnDRpBgIYMc13tg"
+    },
+    {
+        "name": "Mawile",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Metal",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/xPo_cnJojJdt9Dy_3NMrChAhBXg8yVPu6wMEru_rxfUvkvyBpreMtj-0fi7UQfX_3Mm5qwGyPdDN2y0iZUBMBgm3m4WMMIPVI7F76XXZConx"
+    },
+    {
+        "name": "Pawniard",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Metal",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/YwjFKxulezouqhO8GxCfJdITYKUir_SOiaxm78TWzxlYr7sJkrkAomwnsI_sJC462xbPatgwNlNZBDMqJa1LPDuPq4_t_2rHZb9wkHhR2bTqPNA"
+    },
+    {
+        "name": "Bisharp",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Metal",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/jjS7-qw_ot4m3iucCG-ec_EHvjDzCkNzI3SwxbqIJWZZockq12dzYJH5I-1iEtSZkKg27rQAFv8EoXwvcHbTepzXP0FBVFanVB6w6loR1hxF1xU"
+    },
+    {
+        "name": "Meltan",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Metal",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/FobBrZUJWpa4Q7kABxCHagVhvZ5wUqlEdvkdZ3tQt-LxPSinJ2VC7WbvzKgbAw7gWCPW9qV6MspbFE9AQYBUt2G3hwrSo1EgG6XM3pk0UN8"
+    },
+    {
+        "name": "Melmetal",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Metal",
+        "rarity": "3 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/X17uki0P-6c3XpBqx5CJjqD4nNtMQyafwYkFLASc8HkYwQTld4SxIXlmqIZ_YgqAWYyAx2JqE_yslZCspWmPfNlR9GkAEu5Y-YxshCJ_pMQ"
+    },
+    {
+        "name": "Dratini",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Dragon",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/TdpsOCbOgnR8SUQlh0hRqZzDyuMyUyogTf7Favt357f0ylY9cIZFkNTTdScwOYc-dsktYxANpdFZu5N1UpU2lEsmJxgbe-8DGRb97QNqBdDssrs"
+    },
+    {
+        "name": "Dragonair",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Dragon",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/Zr_6rwMRZ0iuHitoy-voQ29tKGmQfI0WoudNo74aASH8f7g_RTqquYBxA-sWFklushyQ9php_2kWWjIQ0ZVbrIWikawbF4AcwSHMJ7wW5Q"
+    },
+    {
+        "name": "Dragonite",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Dragon",
+        "rarity": "3 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/Sim46aodthORIhOJbNW6XToQD0wMoAABVesLdN2-tZlEQtsb-bPlaGCA5rGT7G3P0oX0YSt3MTBcAQ3sVy4NmglVYA5ZrKQrIOGHz-axeoM"
+    },
+    {
+        "name": "Pidgey",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Colorless",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/tdVaQ83wH2eFyjqZC_9WU_aFWnQw5JTpss6YR5RrXtcA91J03-apkRnc9F09rJOCH5jro2XK5T9mkW0FMoELCqLED9xPihbZK5xmoqgKAC9FTFTW"
+    },
+    {
+        "name": "Pidgeotto",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Colorless",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/5yauOHIYKVn2NTD0udRUdsjYvjcxVBr2T9P8ySRN-wFt5C1mf5D26CyNlZlwyg3rprbfPQQ5KX09EDS3UosS-lXYKyUYqIXQe1JNoqoSRnQ"
+    },
+    {
+        "name": "Pidgeot",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Colorless",
+        "rarity": "3 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/NTzDbSygU9mSV1L5E_ratq5aIEmvtqqbzbycFeDeTrCd5UU1ohbvPxbwOG6vNw-MnoV9ac_Qx6r5MtsrrQAWUYTFPpxyRvS3v7N1MMZnGuTg"
+    },
+    {
+        "name": "Rattata",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Colorless",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/-npKQHWqJCfw-LHX8mKdlAsv3OjJp9yCgqk9YbY9pepY0duYfVLThUkhYYLQd7crS8IbIb-EiXcj2IR7UnZaMr1bCTFzS3o2KmEL-daRT7WESx8"
+    },
+    {
+        "name": "Raticate",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Colorless",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/cnSoRAOWnz8jwmVpLeKfAp4f2TftdlQlpwoWhq3Y8_ddXA316ANOchVlPLa0MpZj3MDt-lBHtMMFgY28ofcpgz0BNu4BoWTsnr5LFsrhdOvhSzM"
+    },
+    {
+        "name": "Spearow",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Colorless",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/P0raIBBSdoMZH0MNaOMyLpJVt11oiMt3_hEHZK8F2Tq095G7K3f11rmVdUWahIMsuk8-4ujZKrXSOemQpQZPHbNQS4E4GRoH0_PL2xZS_O9zMwTavA"
+    },
+    {
+        "name": "Fearow",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Colorless",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/m3fLNSQTabj_Vfy8jCeEMQ14LdcWmA_dTrUaIoeM7Eb8moWowpg2hyl8fa1YRbwSn-lQpMCfAfDcG2DlTTAFUAm1myZ8XO1rN7HNGcJPZpk"
+    },
+    {
+        "name": "Jigglypuff",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Colorless",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/L_YbzbNUzP-2Cgp0R7k1ce4Y-aO_4gGbLIR6oowjWkxCljP4p-Uxe1Vpx6wQhqlRz-_BncukjkjtqRfAFd9voN-lxTU-c7seVdbdUOhNpPI"
+    },
+    {
+        "name": "Wigglytuff",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Colorless",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/W7FExQCJV5dv70oic8NTHPYfyprGOzNseOaax6aUZeyu6QJ53L_ndbSPm2qdNJkLJKT-TP8HvPU52P5CO91BEBLNUAz5VCtASl4u5_kV_Q"
+    },
+    {
+        "name": "Wigglytuff ex",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Colorless",
+        "rarity": "4 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/3yxZRdxtjyncqP-ggDcJ1HXxVs1nfy7gDIDpK1g1Zstf7Pmq9jvLNGjpVgVWlBMymJsaT_du9ahV9ZDo1j4tE58Q8BnvqgRmfcozV5HXls4"
+    },
+    {
+        "name": "Meowth",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Colorless",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/JceZOOhmpKSqrYBui9RlkSV9OZIcF__PB3shlNnqKaNqXHc84kW2JMPRFsEI4kj0ybnHH8VYJWHDSWKAth3D6FLNzX2g8z4vytqTMves59kz"
+    },
+    {
+        "name": "Persian",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Colorless",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/k0-CRq6bDnk1-BLStI-_9vSxhV6fFIA-k_DXRpZ2UsAhB0gHZqFj3-nt9neLnGgchZg8RnrR8XlHv5Km-tmll1XRhWsxDKooym__cF3xZFNr"
+    },
+    {
+        "name": "Farfetch'd",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Colorless",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/dRuaG4ohT4I-SBnhuDYKDxR9e75iNYUUzDdW11bIKJMVqCvV37Ddn9nK8dH3dq-cslwWo98OH5KUyvE9vHf4TuwxFs-B1f7EHI17alh3rGZuWVRm"
+    },
+    {
+        "name": "Doduo",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Colorless",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/AfSPjEUwVATmbXyvKiRaQMWfGzGp56Zjqf8qxYaPOEMSzlAKlwqwmOmR_QWfGS2rhX8tRsFxZGpwEwV3vX-JLXCmogbD8Rm7x5DD4_tepHMBJ6IARg"
+    },
+    {
+        "name": "Dodrio",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Colorless",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/xDuTIh3cxie_4N7Mf7dxJSeuOKcxV8r_OqsIVDzbWkw82_7Ins3wDJogkykcelnuROtfYqmCsTvpp1zEtHrMf6zez_O3jggIcZ5npIzfMtmp2dq4"
+    },
+    {
+        "name": "Lickitung",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Colorless",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/HQX-KtDpqDg5RX89YWmqIfmgUqJi89PA33j4SujQ8grfRWu9MXClvlf62ADiHOCIAFpalxhiwji9Al1TaRO3-QwDPWhhfRW-Pn8deAZMhDVmgOY"
+    },
+    {
+        "name": "Chansey",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Colorless",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/Lua3jZ9YgBarJOdmsZiqJmISVLGX33ciu5tI9iR3Rys6TsP9eeye19-fajHOZuJOJJFP3JNu64uT76o8Jx_x7t-Pz01rHkO0EJOXm_odY30"
+    },
+    {
+        "name": "Kangaskhan",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Colorless",
+        "rarity": "3 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/zeSHxE1a4UBtuHZN9YAad5grwEB1HymQ2wxEIUgDfhY5RUrgU2kVZ9tfPb8cpI3upH0V-VwMJWl3f9inm2fHxETj-nkuU7lOYZ-V3TVrNw"
+    },
+    {
+        "name": "Tauros",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Colorless",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/vaq-d1LjEQVZoCDnzkGecM6kZt7cWWCQPD5MyYvX_Q59Lc24jfaJnh4bmhn9HsGojCe8VZHV96HOUOirVwkiLKlcs9LBbcpBzH0oEIQjiUGgj_o"
+    },
+    {
+        "name": "Ditto",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Colorless",
+        "rarity": "3 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/MFLIDZwuy6XMlpaMU7LSYAFSTCzO7t-LNS3nN5q3dSmZegMV__pbL-3Y1ync7gKHtQRoYw2LZwGaUQdPHB_56wJ34LRvOhZgV29iaJSN7Q"
+    },
+    {
+        "name": "Eevee",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Colorless",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/RoE9ZZGub1lZqOIBagcl--fOlsjBerPtoQvzadtnZ3MhqrsWEuVa6eFiYnyx-M-xXLf1xMAsUk2YYd6dkoZXFBqtAVIC8GxSiBtncjgwWiuDVj0"
+    },
+    {
+        "name": "Eevee",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Colorless",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/2qyZW23ik2DJGk4xyh9x25QqGZUnrAmLQoPP_VIQfPhpG5u0VV3-YEouBRS95_V5Um3vUCRVvc6AyR_1LCYTjtcEm41OJW2Ygh-3puGH09QqJldH"
+    },
+    {
+        "name": "Eevee",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Colorless",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/J4QOhjkkmkIW8xyPGhN-PD40muKoLUZddzjLHcg0dfRiPNWDA89uETiBocpxO8Zhb1T4y2DX6CqFuK3jfRYb5vTTCq7IwNgtubuQv64MgKhwiw4e"
+    },
+    {
+        "name": "Porygon",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Colorless",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/Yp5FEzkt38CUWyAJW2aD5k5a4X81WxyR966DNJTDObBTvFcQoLrs1bWSgJcu5NWsCLzUuiANS_KUjv1FTS_mcc9eCgckxdo_krOFaOGb2gOH"
+    },
+    {
+        "name": "Aerodactyl",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Colorless",
+        "rarity": "3 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/DbeQKAK3IYIrTNIRhNQGArm3z8dpzX8NuX1sZ3skcIXO1WpW8WL4nSS0wEadZpbwjquv4PIWKlRUr47TO5bdyL0PCairIMZmdkOYpmAIZwg"
+    },
+    {
+        "name": "Snorlax",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Colorless",
+        "rarity": "3 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/P89ro0B-sYhoQD-xLaAyqaxfGdzFZrdI_UYoNzT9ZO9vDulhRbcyDzMkieSKcc-Wcgr902BHnBqPQj5FLaYyWAnzH8Hn-q2ye2FGBpIXKYs"
+    },
+    {
+        "name": "Minccino",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Colorless",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/K5LVJrGLiXqhYhVo6_UIbo84ioc8U5Rj0oP64vjaYnDNW6CgVDStuy-IBOPTG5IoMhALWtmJfZq5lCuzC4ww0T4iraRPXU8ky6jfEbwoUc630rO2"
+    },
+    {
+        "name": "Cinccino",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Colorless",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/M0fLlDpae-zBSbweODBXkIvPzB9Uxqh-ZI8CIrsaC9XkDrCAdK3QyHq0bzbfNAO7ChCTfdX20ZqUfGKQdY9f7F83JDzhMvvIGjkohfLZ9ZS_"
+    },
+    {
+        "name": "Wooloo",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Colorless",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/EOhsG6trjY7xQ5ftf8iETyH90TwryTrbyTVGNT79WzUhneHJCmZCabRBIvJPwwfDjGeRIi3UmRazl5rKxQGHH-qstDJNrubBqinPC9d8pXSg"
+    },
+    {
+        "name": "Dubwool",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Colorless",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/AHNFLGnN47VmyTTlcnMYSznCIb17-RgnZQOhISl5dBqQBYW77feFqBnL-L8V_jKJ-QHOZaBR38TG3jW3iwTDXeNECGrrNMZkgOKvplj_KAbL"
+    },
+    {
+        "name": "Helix Fossil",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Item (Fossil)",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/xAK2o1QAc4QvIY3P2zQ-4jo4EJKmzHEOkCE7K7UHxKIyKWrftr1zO2tAb6yT-BjoIOBoRxuhfCL1WEbPPoB31cpRDxtwi_foTqboMDi3OQ"
+    },
+    {
+        "name": "Dome Fossil",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Item (Fossil)",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/YXycONJG5Zv7QucrohKGZJMJ6R0EriRG_ey3hNAA2_FvywxF5Xq-ecB3sR7kQ7TH36NAywKMMl7c7J3Imjy1JiYY8gBeGbRVK034xWs6ZA"
+    },
+    {
+        "name": "Old Amber",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Item (Fossil)",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/6HuEzHFSpGy5GKhM-lNU3v1EUpZ8GkDvw0itPz7kkx5y94epKWVoffTXHEXh9H_Luogwp7lH3f-_VXF_0Glv4DNylTf5BOpZSGQUF6_OI28"
+    },
+    {
+        "name": "Erika",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Supporter",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/j-_alRECiF_xERYiNa171tlhPF3PcRNNszn-NCQCi0rBkyLAGVdoQZUcNYnxm3Cnh7RxBidMDbpcJUSFb2ZJgx4Cv1s-n1U89h3zXTW_wQ"
+    },
+    {
+        "name": "Misty",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Supporter",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/HIlxJvAGmYvtys9AiLnSrTqMBWDPyi7FH9GjHuz6YMNFkz7RDdANxWeOKINSLSKVbBTCEqwUjFXM63O9vuRACp4iS-gi5LfJJavAYBRc"
+    },
+    {
+        "name": "Blaine",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Supporter",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/ZOBQSUAq8ZA2EwRLah_AjxnBCnOhjKW_xJeP82fTiYk-ho-XSuYh6uGWqF67WYXei2d_1xiTRp6Mu1RBWtwTmtYt8VhPz5rV4J8nEPfKrfI"
+    },
+    {
+        "name": "Koga",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Supporter",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/hyeRQgvu9ECy1Q9pipTVENb5tTzSmGrpf1AZ4GuKTUqfRAQEoXQPuLhjbLornQHQ9P5RU7iy50N-XBDCSVtfuwPbTBhOBDDZyuwgtjra3BD5"
+    },
+    {
+        "name": "Giovanni",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Supporter",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/wmmbAZDLFsmQnyZFV8t0SROCxh7MWGRVrKNXnVHnYqKfDYCf-kVmaOfJMOlEqlAEAiHFS_uJdUHQ2H0ionD2JHK5YaQa42xm9y2zkeQzhOU"
+    },
+    {
+        "name": "Brock",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Supporter",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/Sh46xijzSdpibHS1nfx6kHpzZQJqEGDqI2Ooz477gerVTNDeQNaXoWtt55_y8b_pFwelNz5KqWcFXNSp0k1q2q8CN8MM3u1juSqDimgMe_Ah"
+    },
+    {
+        "name": "Sabrina",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Supporter",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/IdpMazF9GvR0Bk5ApWSG73ie5YSsJo-AxKKMZZuP4AdqNcDHn7S3-Y7AhIJYd7tHiXNo3u9NSRMzGfEZ-RGlD8NonfRTd1xQ-YTOkZqaC77F"
+    },
+    {
+        "name": "Lt. Surge",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Supporter",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/z0-IZ71rl4JgQE_BQMOr3JpcYI0T1rkq_fWUa8ONdbS1SlrMTXtVlgTwyoAssDY5bcoIRnXiSZcO2zakO-sX9L0GxBbTTS4XS4JrVLeUuq170aU"
+    },
+    {
+        "name": "Bulbasaur",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Grass",
+        "rarity": "1 Star",
+        "image_url": "https://lh3.googleusercontent.com/4byp88leXQF9Gp0wlBQLHZxNa3X53QD_9gQe857m6DO5M3Y0FYW1wrkua0Tt-T8l__Wrhs1-jzTUXEVJ8YmeX3b-CtKoem-0sBmNi7ndqZxCk9rRCg"
+    },
+    {
+        "name": "Gloom",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Grass",
+        "rarity": "1 Star",
+        "image_url": "https://lh3.googleusercontent.com/UdPBAHo74N1c907uWamxwyksrwI2UlxyBfThcgMVgm572jQm3kxjUP5yG9uMqojwaDo2fVHE9jgBw15J_4aYrM4IIyco6sAzHfR-OkjAEppcGmaX"
+    },
+    {
+        "name": "Pinsir",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Grass",
+        "rarity": "1 Star",
+        "image_url": "https://lh3.googleusercontent.com/rYbP5ItWogfSA3VXgkfcAz9W8rVkBn9f7OE-6EMZ8rDPfcYhySwfOu7xPikDRFjK8DVTH33VhJTCd2lcug6T6RLOGdj4Hn3mhzTSl-gdFDUnZhw"
+    },
+    {
+        "name": "Charmander",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Fire",
+        "rarity": "1 Star",
+        "image_url": "https://lh3.googleusercontent.com/T9swY7CVssZx-OR7vBmxv9g4lhCCKnjcoWE_jXaY8FMOxCaJvBusDh6znt9xaK0ZFaWCQ7K9h1_z3sSqRjKW_aDf0nI0EgLgwiF5cbHLfrBeeTVr"
+    },
+    {
+        "name": "Rapidash",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Fire",
+        "rarity": "1 Star",
+        "image_url": "https://lh3.googleusercontent.com/gMxXABAaWUfOSz7VrBE5GBOr-USaxEjv9erwQhhjnnpcnQUmY4kuJMbUwI7c8ZixdcKW5hrxJZ3fF33EhaVKapq4uGk4Lzmoi_gTXuNRunxMfLooTg"
+    },
+    {
+        "name": "Squirtle",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Water",
+        "rarity": "1 Star",
+        "image_url": "https://lh3.googleusercontent.com/-vIwLupVqlL6EqAyaAgQdUyCq5InVlangjMHP9S3rs35xPzZy7kW07VCAi9HBjx92d0Gr83BeZ6G9oHTdF1kpNTRjpAIXbH66Z78RqaQIfuyw_fD"
+    },
+    {
+        "name": "Gyarados",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Water",
+        "rarity": "1 Star",
+        "image_url": "https://lh3.googleusercontent.com/8p8TupSpvzQB70Y05rRBMvKJ4-S1katFS6W5Q7vcneNiRv1QaKNtqaZ90M-axAFbtIvZw2oZwb398gW8lHJC3t_tvfKrKILHFvXrkgidjJPFZN5y"
+    },
+    {
+        "name": "Lapras",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Water",
+        "rarity": "1 Star",
+        "image_url": "https://lh3.googleusercontent.com/iZFZZK4FFPUW-0pA6OXhodj1gbpAE0y9nD5G9XJXzMbCjrwFL8f-2-rzlYnO-qbbHedwe8wkcCbZVg1TCzX96kepSkoKqCJXl7jyppzRUhqswRw"
+    },
+    {
+        "name": "Electrode",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Lightning",
+        "rarity": "1 Star",
+        "image_url": "https://lh3.googleusercontent.com/64XEpjxCqFDFOZVRUW182iVBooY-aWDv36cgPWcqd8qWHqFsF2iNI1coI1SqG2prXwwJ90OJNTSPgF8rCjki1LSKjtuwtQkh5GE6dyCS5ul0usaO"
+    },
+    {
+        "name": "Alakazam",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Psychic",
+        "rarity": "1 Star",
+        "image_url": "https://lh3.googleusercontent.com/_xurdStp5hXKIwWjJzJo39si8hIF3G3_NYeMRfjA2FTRXH6HR_7wMmavo7QBJFxUu3jrxugOCa9WQDliFh7dxnE3EmpqAI6ihVFZAleNoyAZN7sHbg"
+    },
+    {
+        "name": "Slowpoke",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Psychic",
+        "rarity": "1 Star",
+        "image_url": "https://lh3.googleusercontent.com/1paVppvbnFMm9-3hN_FQjS8DhN97h_U1Qu1U1FosiB4DKuiQih1gnHZjwM_nSH1ZWfixKFHnSoW5lX2LJkmeGbvyoa4LTKYg8LCj7V6nflk8Ouk"
+    },
+    {
+        "name": "Diglett",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Fighting",
+        "rarity": "1 Star",
+        "image_url": "https://lh3.googleusercontent.com/rSRUoVTN9NcWIMwylRpvtQSC79oH4-oonZLjI0ARfIskTugMqpri9BZ7G5hn_VG1-gsLx-zdYaWcAIzbqMjwq31mL-wFgvBaFCLJpyvPXF6hdn2t"
+    },
+    {
+        "name": "Cubone",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Fighting",
+        "rarity": "1 Star",
+        "image_url": "https://lh3.googleusercontent.com/HfbqqP11zKRbjZTtqQkTjAT4m54RXVyExvAzpUT5GzLLeklOwxn0yZigHWXkZ_F0-QvNCaGQkam---SHmLxQmmEeLQnR4ZewqNCMmErJP6Q8AB0OYQ"
+    },
+    {
+        "name": "Nidoqueen",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Darkness",
+        "rarity": "1 Star",
+        "image_url": "https://lh3.googleusercontent.com/RpWuBrJZ9xzXYw5XgDPPaWHCZycmlGUMFOoHuM_hn-nLGmyad7qDtQI04sK9ePEfb5LCL2cUcX0eH4shLOWgqraRCfi0iIcnwuXsc71kSuXU6X-E"
+    },
+    {
+        "name": "Nidoking",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Darkness",
+        "rarity": "1 Star",
+        "image_url": "https://lh3.googleusercontent.com/ZX7858AgWhqhgXRPNhFkQ2kJzi5HAikTy1o2sPmhCtyMHa4x2mwcmhHaMjRxY997eTgABvzT4Jmpqx-upQR_ibtHp32UcJcP546-Q5Uo2WTWk-vIww"
+    },
+    {
+        "name": "Golbat",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Darkness",
+        "rarity": "1 Star",
+        "image_url": "https://lh3.googleusercontent.com/WwqAUL8wINV0jFXTyEhQHrtA0_wJ75uLDPS35wnz4_cJ_tmj76rMBFmTbOaKTZYEQ8tLRbocd68DX66h_9lA3AOAMkvAt-jzNWUNZDsCo-t_co3R"
+    },
+    {
+        "name": "Weezing",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Darkness",
+        "rarity": "1 Star",
+        "image_url": "https://lh3.googleusercontent.com/vfdAwgg11qkswcm3krRKCWy_vQDMW9TUnKE6MVLZbkSmP07TjTZzWpJ_JTQlebv43OBvLRk3SRwv9rkelyfXcWsdI8NFy5DqdsxWvLMosG8CpIUy"
+    },
+    {
+        "name": "Dragonite",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Dragon",
+        "rarity": "1 Star",
+        "image_url": "https://lh3.googleusercontent.com/Tn19nJWBFqk9a0hWFSzzucHkNb2F-rWD5OJjGGpcfo2iXt8zR5dwNEPOMCvuz33PfJI2hxsTrcBD7pKSMDGtkhC5eNx_6JO07Rox_MwEfySYdlaRGw"
+    },
+    {
+        "name": "Pidgeot",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Colorless",
+        "rarity": "1 Star",
+        "image_url": "https://lh3.googleusercontent.com/JeniZEfYxLpYUnGuuU5CACcT78QHCz5riyYG9CUoXqIohiDae9f1Q7DSuRsZmcOYxRQY6qlfz_JSPoFWCEpFW_lYYD4Yo70PT2gbsmcJ4ekN3FL6"
+    },
+    {
+        "name": "Meowth",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Colorless",
+        "rarity": "1 Star",
+        "image_url": "https://lh3.googleusercontent.com/llbDwAIw5cTUUbUCfZH_JJP4W1mXWuHL69fyywcx-iDYXdWntDP0XTBig-MNyL09mAmElB-0wjqmgm05Wk0eQSuYQOdMdPbsiFckcnEvMz9dXWk"
+    },
+    {
+        "name": "Ditto",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Colorless",
+        "rarity": "1 Star",
+        "image_url": "https://lh3.googleusercontent.com/--ILHknZNzKd1-A4WKdfKP7SYBiCpTPN8Uzil8UZmwqEjyqwzo4oVhZNuqDgEOXaIToFYj77NaH-Eg3gNX20iTNNhryp-m0LDKilet3ppRZgGwjweg"
+    },
+    {
+        "name": "Eevee",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Colorless",
+        "rarity": "1 Star",
+        "image_url": "https://lh3.googleusercontent.com/QMbT67r1FVbq3x7KD4hycOcw-ZOaBjS6H57ryJbgrrhKJ5GiwZElS95QD0NtRGaK3Q8_psSnVSkR1ULn9u3i4h9AE6Nk5RKuzb0S6MShog6ZmeK_"
+    },
+    {
+        "name": "Porygon",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Colorless",
+        "rarity": "1 Star",
+        "image_url": "https://lh3.googleusercontent.com/knatjA7xdR5E0hQesHpfJfh2niorgDj78gJ3weWhkpv7KhdNUp_cZfWFw7g7zJkenQ5itjNo0sICQYfZ-AYg0Il-WKvfM_hniMO185vT9JPVl_ZgEg"
+    },
+    {
+        "name": "Snorlax",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Colorless",
+        "rarity": "1 Star",
+        "image_url": "https://lh3.googleusercontent.com/TlXmA4Pvsml1SWQaQbGtn1j8c9FTLLkxGPYHdvcN3zY0Q0E1wO7KsdwOytQPoectpcSLEGq5fr77ZwkyGt7x6Lho0NJmtU5IsFySrolzNJFQHDnh"
+    },
+    {
+        "name": "Venusaur ex",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Grass",
+        "rarity": "2 Stars",
+        "image_url": "https://lh3.googleusercontent.com/KgxVLDkYzxFjR5LhEfBMgzp2huHaciqFrBI3UsSTIfi_pwMGapu9dHsPu9oVz3BIw2e-q1OZ_qK89l29KCnIg7oOWuKZlshhswh2343Cu3vYqolbIQ"
+    },
+    {
+        "name": "Exeggutor ex",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Grass",
+        "rarity": "2 Stars",
+        "image_url": "https://lh3.googleusercontent.com/3sgm5eCoE9LTUtEpEtOiGF7WU4CGVZZ1zmGIoqTYnylVnffzZegU-ft4IBdzxg4WFcPOQQD4cu2WCUmAxs6N5NfNPuJZrKbVwHprYLrTsoQsfLrZ_Q"
+    },
+    {
+        "name": "Charizard ex",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Fire",
+        "rarity": "2 Stars",
+        "image_url": "https://lh3.googleusercontent.com/me9J1kYjq4cP1eax1ds_XteujNeLdFEcU-sXFCM0K4IGasIci9ODEPwNGkcHYVMnZGcfD4DpWEP14C8rxAP9nErz0omU5iLqeC1KWPppuQOH9mA"
+    },
+    {
+        "name": "Arcanine ex",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Fire",
+        "rarity": "2 Stars",
+        "image_url": "https://lh3.googleusercontent.com/RvUs_NgyDXRQQ6edyS0taWXWLsAx_B37oPDvFMusvyynhvm7t9n3WEsp5Hj05209ST8sl2IzQuhNOLG_LwTkG1I3yUnI5RZplJLHnhBlvzYPdSeT"
+    },
+    {
+        "name": "Moltres ex",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Fire",
+        "rarity": "2 Stars",
+        "image_url": "https://lh3.googleusercontent.com/Lrf1OvE3zMmnxZCJxu-Z0zvVWQVeNW9EexNmWnSR8aoVDmbwIdZhpAzck17J5a2EZX5Mtl7mCOVjZscvdiGr0FkpPrZyJ9UQ-iZ3MmXsYVIE"
+    },
+    {
+        "name": "Blastoise ex",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Water",
+        "rarity": "2 Stars",
+        "image_url": "https://lh3.googleusercontent.com/tyD2Nwe6v9V84QOIlD85NTJIOqnOyHN26KKPepRXvzy3dEKBmIQSMfpYHb6H4xEE5-RDTlQLf2ISW8oEVNGkzXRdwQS1gIYju-aqaEOSbYo"
+    },
+    {
+        "name": "Starmie ex",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Water",
+        "rarity": "2 Stars",
+        "image_url": "https://lh3.googleusercontent.com/HrmKtkbWREHpm_rHXoP5wvdVzAAlzwpf0iBwa7dkzS6GF6LiwzIzVARctWze06RvsQA0NQ6AYbJv635okA9QcEDtBqk6jhr0KNHOskXFBkI"
+    },
+    {
+        "name": "Articuno ex",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Water",
+        "rarity": "2 Stars",
+        "image_url": "https://lh3.googleusercontent.com/CoCU5tmTdPXp9L7C2pgaSSFBMgDR8mGnkPG6u0KLIwrNblQb9kO_Uy40VyUtaXPfAWHDLxG5GWYQaqbhS867EAR4Me0mjTsLetg1r9cZkg"
+    },
+    {
+        "name": "Pikachu ex",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Lightning",
+        "rarity": "2 Stars",
+        "image_url": "https://lh3.googleusercontent.com/nZHhfL8dtqXcjtPZlXBZGbzBiIMUfk06e9TKTaz6tkw0qamZcTabV54PaLjRadtBhZQ3wTkn09yqEFv8kpTvy1aOfO-3wiM5LCBJCRhu6yybppoK"
+    },
+    {
+        "name": "Zapdos ex",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Lightning",
+        "rarity": "2 Stars",
+        "image_url": "https://lh3.googleusercontent.com/ddEIOA2DfhK50pATlDSS58tVG4fsIrnRQ9VOIJXldrLwNr0qaQ3e52Z0Xxz7N_n45H211fM6JSMct73fAqK6-moanbOMIhGmfJlwL6Da6pk"
+    },
+    {
+        "name": "Gengar ex",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Psychic",
+        "rarity": "2 Stars",
+        "image_url": "https://lh3.googleusercontent.com/1zocgxHx2He9wdIlyKYe-ysyxHjXZdva2GtXGJTTadFE73TzGxs2vOfhzTD48Fm3NHLW68N72wSBRN5FD3UYloaSdUYXWZg_voBuW3vQiw"
+    },
+    {
+        "name": "Mewtwo ex",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Psychic",
+        "rarity": "2 Stars",
+        "image_url": "https://lh3.googleusercontent.com/mcu8h1IG2AFSXpg-susbHojoUIh3eoIWmJVb1KRa2fQaFx2AwsjOUcrOhAfV4Ao1xVzi-5m_ofYXqN4yHGyYp1FhVTU6yPh7CPLw7IEixH4"
+    },
+    {
+        "name": "Machamp ex",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Fighting",
+        "rarity": "2 Stars",
+        "image_url": "https://lh3.googleusercontent.com/XBlY3SeOhtyO_28vpHkE1Z4aDwURnseWcFQTmkwEjvhfmvMwFguIV2s6EoIN9r97Lgnsnfdi0KeG-cAJuR5qr4MhPIk7QRURg-Q3wI6Rhooi6_0-"
+    },
+    {
+        "name": "Marowak ex",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Fighting",
+        "rarity": "2 Stars",
+        "image_url": "https://lh3.googleusercontent.com/ty2yDnBIc1Trj_ggsY9iDEDAK7XTZkexWOW0wDYwUN5UOj3QxFqAPYeCBl8i3cvcwpLVkMM-IQvjXMrxPBZb9fKNlAyvxYz2MTxKgWWa3g"
+    },
+    {
+        "name": "Wigglytuff ex",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Colorless",
+        "rarity": "2 Stars",
+        "image_url": "https://lh3.googleusercontent.com/HXr8J7JXUubKmHUnL_8GxM0H3AJfO67vswlzDNM4PyGf4nJdfSzRXn0GHjiKGzzPK7tv3EinegmKET695wS0GQQ6fePZ1wwCMF8pc0ZJ9i_T"
+    },
+    {
+        "name": "Erika",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Supporter",
+        "rarity": "2 Stars",
+        "image_url": "https://lh3.googleusercontent.com/LJqOLJTMcxtA9EtTpzowTxwJFiZ0ebq_-Nzce2MTS_VfHSsn01nezhTH0xC6ETnVlYOOjg2SlmliDGWIEfXYXLh-tNgplEzC5W3XvoFBzUTk"
+    },
+    {
+        "name": "Misty",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Supporter",
+        "rarity": "2 Stars",
+        "image_url": "https://lh3.googleusercontent.com/SzmJP2CcAky_swtdZZQrXUfmFzOa79OneNP-0nxaYR8GZqdUEUeSIVIJyJNNwECOUyNYnJCMse81MUqW-8OGmU1jmq6TA4pVFwT1hGQhePwm"
+    },
+    {
+        "name": "Blaine",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Supporter",
+        "rarity": "2 Stars",
+        "image_url": "https://lh3.googleusercontent.com/V_w6Zkt_s-sf0d0j0gfUaY1JYs7rSEheDEeaKxEqi7USNbN_nsWW2779Sieh2zTzfikRwO6mN7bXwbB5R3BqLiFTO6ZvPX6t-dmu8b9lKWA"
+    },
+    {
+        "name": "Koga",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Supporter",
+        "rarity": "2 Stars",
+        "image_url": "https://lh3.googleusercontent.com/evXlNYLwJD_Wx3kxyPqXn0RKIZQV7RA7u4yMRan9zgv_-cluIQLDv2xkxyQSM1BokudLauT1y0PrLSTi5oI7xfDxJ-sRut0HcuZrPapDVbo"
+    },
+    {
+        "name": "Giovanni",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Supporter",
+        "rarity": "2 Stars",
+        "image_url": "https://lh3.googleusercontent.com/7PjsusrShHvCMO22Dzyx3u7eHFcMm8qlSILHb6PvSISRx5x4fzG2clF6tfy_Ae-iLAyrC4-Jhba9yfWFih8nu1X_5YDhqwzSAcag9AXA9w"
+    },
+    {
+        "name": "Brock",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Supporter",
+        "rarity": "2 Stars",
+        "image_url": "https://lh3.googleusercontent.com/ms44HebIvNo9uT_7bjyPw-ZcYveMbN1n3BSB_PjhMc4gxEKm2eEowJ3ufgFmzp_1x3HHSVOKSYof-djGyUfsNFrYeXLYjFdtgzqlIy4xGVk"
+    },
+    {
+        "name": "Sabrina",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Supporter",
+        "rarity": "2 Stars",
+        "image_url": "https://lh3.googleusercontent.com/cKADroCC6oYgBqguO_2K416LfVbr9CZYrTPvGV4dk5b-DauaAY_2xpcDIcZ7eFrj1tTPKF8jQVTShHcicS2qhV-JZMha05lT81dZVTNqHYs"
+    },
+    {
+        "name": "Lt. Surge",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Supporter",
+        "rarity": "2 Stars",
+        "image_url": "https://lh3.googleusercontent.com/3MYgnl0vVVANe0hRfADTxVt9MFQmCoDHkF2BjiwwEmunacM7VysYMOePgMD4oJf391IXvpKOu9OTNCiPXlp2m8iF19pFm9sleOwbmekRqdw"
+    },
+    {
+        "name": "Moltres ex",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Fire",
+        "rarity": "2 Stars",
+        "image_url": "https://lh3.googleusercontent.com/50hpgP9TT4W1ygBas40w6axZfwWbR7cr72x2VlNpdbCMrahmIs48EAQbfsRKWwNU_ZHwjxufngQbYv5GJwxUNT4_G8zHcpbn5Hj4IYIIXew"
+    },
+    {
+        "name": "Articuno ex",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Water",
+        "rarity": "2 Stars",
+        "image_url": "https://lh3.googleusercontent.com/lJlzhqVO_t0Tg3lj55CLxRHKi4gXltYet-a3dHbUunZ93l9vBfgWFxRxpKUaRSRMl-n25QuzCmzqO69SAkkx-3mU9BMEY-SfSLm2AoL3YQzbWjpN"
+    },
+    {
+        "name": "Zapdos ex",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Lightning",
+        "rarity": "2 Stars",
+        "image_url": "https://lh3.googleusercontent.com/-13J-RxF00_NnJl5q6-PaygEqAcWu9Yr-wlRkd_z0HmNUB58Op7p966AQ67j6-ptHqRNtpGrOvTV_PzDLjpOE1TO-iPUO2u4amsw9JDfLu8"
+    },
+    {
+        "name": "Gengar ex",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Psychic",
+        "rarity": "2 Stars",
+        "image_url": "https://lh3.googleusercontent.com/uSICp7c89fZdfObrGmWBUjRmrL5qAxC66gIiPDnnoZLdlegYMLGcWgHtdPe7iEuNqs1dGeV6ZKxAEtgFY0rDRC4_gyTxfhyFRmRLBBFhA4s"
+    },
+    {
+        "name": "Machamp ex",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Fighting",
+        "rarity": "2 Stars",
+        "image_url": "https://lh3.googleusercontent.com/t5WV9LVUpQlzdm3MEi5fjbR2mLH3NGmG2cnkqaDLgTs5Y04WqRgicP1nNX7HBDKuUJjHCoATEYvG705WjDPKYElJ7RRUPYVqOwuu7ErWyl87"
+    },
+    {
+        "name": "Wigglytuff ex",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Colorless",
+        "rarity": "2 Stars",
+        "image_url": "https://lh3.googleusercontent.com/qW-1X9qj1l-_lwVr3VF-uRHoOzMDDbUADJ5mMsQfuCnPSFUzZ0IO4PnjOb7--ymXcf4-k8cG4X7yOkwQ6i9W7NcIVZiE5Cp19Xt-9cLtpn4"
+    },
+    {
+        "name": "Charizard ex",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Fire",
+        "rarity": "3 Stars",
+        "image_url": "https://lh3.googleusercontent.com/RGI_-MLimJHpYnmSjjGkRgijYNOo134N7QeT14w9LMeWdMv5ScIqPjFO7r-69nCtgUZh69NfW5Jo0xrbtjGNz6Gqw5aiXDkO4O5aRmoJFcU7FOK1"
+    },
+    {
+        "name": "Pikachu ex",
+        "set_name": "GENETIC APEX Pikachu pack",
+        "type": "Lightning",
+        "rarity": "3 Stars",
+        "image_url": "https://lh3.googleusercontent.com/zzPjK6A8j0v2a2UJ4xjxZiAOthcaKv5Y8m8ydd5znuVtz6-gmXKW_q3sNxEtiyGkNvlF0971ILrydARsrgyE8HbdV4Q4ambq6OOVGxoj0qNeyKc"
+    },
+    {
+        "name": "Mewtwo ex",
+        "set_name": "GENETIC APEX Mewtwo pack",
+        "type": "Psychic",
+        "rarity": "3 Stars",
+        "image_url": "https://lh3.googleusercontent.com/FYsexlG5_Rlr02XwbtiJhIiLMN0NwkP_-VKXwqCJaZH-zrueknCYi_p2bRnSvcQjvoIL2he6IuQIHjT1gMTUK1Cx5zdMtcoDbYSV8RAQQXQ5"
+    },
+    {
+        "name": "Mew",
+        "set_name": "Unknown Set",
+        "type": "Psychic",
+        "rarity": "3 Stars",
+        "image_url": "https://lh3.googleusercontent.com/-KpHbnfvDWWPFsrLcOyzfxUetlNxLtXzKOMqbUheX-T2YhbTDog7yuIFb9INvQQEv6Xo5NeGFKMfU4SpZgygS1B7hawaABBH4UIY7xLABBOMwDBY"
+    },
+    {
+        "name": "Charizard ex",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Fire",
+        "rarity": "Crown",
+        "image_url": "https://lh3.googleusercontent.com/zbxUkbXLN3f_mOvCNWJHqM9mi5npYG9mAz08VZLdOGtOyGLxsMF2Jpc0drrGgQJ76mGMON3ojdT1HHEd-aQ5JGV_MdIOSLmv5zouvO6WO7TAYLc"
+    },
+    {
+        "name": "Pikachu ex",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Lightning",
+        "rarity": "Crown",
+        "image_url": "https://lh3.googleusercontent.com/lo-zpRaYgypnvdOj4n0Nf2t_XQ-nWhNWg3TlHupmFv9QkoEqnKl8hlW_E0pY8u26J7qAfSFBW5ypcVWZLN5t9nOwjHx2mSzG7LJtvjdHRA"
+    },
+    {
+        "name": "Mewtwo ex",
+        "set_name": "GENETIC APEX Charizard pack",
+        "type": "Psychic",
+        "rarity": "Crown",
+        "image_url": "https://lh3.googleusercontent.com/kPKeO9UPik0NACeYI7qFpdHVM_vUyX_icDstZC7SP3QCMtrD0xYTFRF490gPIkVuV06yYluSHJ1jeTqUxRBp-3dHlI7p2HCIZOrJEW_tVtFq4yo"
+    },
+    {
+        "name": "Exeggcute",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Grass",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/LfYA_OmK2LS9VsXm4FCCeHsyY2eWu_ZkNZeegpEZ4stmi8FUpeaQ8e51YoR4LxG-wx0IEJGw8tJx3ZXcm69i01DQKjcb2vU-knyQ7wyyo3kGPis"
+    },
+    {
+        "name": "Exeggutor",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Grass",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/BCo5g1zbjo6G5Wb2D0qx3O4g2NQft-ao5_4Kqo9CrCW4jfGKuL419cZnh8VCr9Iccd7slyBH445-PNIissgne5GsGilFUtXk8BpKakHF2XI"
+    },
+    {
+        "name": "Celebi ex",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Grass",
+        "rarity": "4 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/zBhrPfo1O3iQNZL1ClOjW-75BgKMh1U72XuRTKoevHrG9jiJwc8C98pyiwl3PyY6lmrX9GHS-IHy9pDnNtmr72KtXM5izjEAvQ1X70-_rvPBkWeG"
+    },
+    {
+        "name": "Snivy",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Grass",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/k0w9Q18zuVM7d-TgbZbmggLmp2Vg4G51dT8_gbBQro57LbjYvAXfx5rhr_O8ALGmB76yVl1KzI7zotqQGtGk56f9x_IaFjQ7TlfytZbkHQ"
+    },
+    {
+        "name": "Servine",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Grass",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/vw0q6y7kHe49KJfU3zY0EeQvEz11MHSrGtQPWwW7LqOIXGq_R5YAjk3AeVwOD0RNznk2XKy1ZWUIHBuHhgPDQJxZbhlfSjDODLwcTCAvr0zJ"
+    },
+    {
+        "name": "Serperior",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Grass",
+        "rarity": "3 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/tcFkoTTGSqN-ZQeNNFZYLju-NSangc9lVcVAdqQx6w8s9HXOmpK30Y5L7K2ljGpUnqtUA03guIymAy01GQ2MuyEyVIcDZ8np87laswM2kBMKc-WK1w"
+    },
+    {
+        "name": "Morelull",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Grass",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/akxFb3iwG7OB4oA2ktKIxsj_Y5cTruL1ZUJLLy2rBLDKZkB_N9aiCEkl5lwxrk9ba6C-3TfsVjkQI9pmqeLyp5C2z2toRf6stR-hmfyirE1O__8U"
+    },
+    {
+        "name": "Shiinotic",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Grass",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/oWlTNErKikkXvzKhmZcBLPAjBY1v7eni3LX84zOopuU_QRfMLUFDihnmtRc0njTA8vho34bwewUIti9v8kksl06WAS-exGVLkP58Raq0vBY"
+    },
+    {
+        "name": "Dhelmise",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Grass",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/TqfUWfl00dNpIAg8jYzmowElqW8GeWOIf__8NDozMJaWJ48Nq2sPi0cZuXvxVWpfjmTpS-2FFIoTOetkJ1zMi6ZJLNQ5b2iaXM0dxMMXuCc"
+    },
+    {
+        "name": "Ponyta",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Fire",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/R_9IEUbQtmUrOVWmkMqLxCRkVQuPd5B5iYGmwXf61uVVa-WaXbfAqTbnqRJfyRgX_6K11wV153a8961GgtGIDqyfjNyoZdZRbko37BRQKiDM"
+    },
+    {
+        "name": "Rapidash",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Fire",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/YeuOma0nKIFOjEkUMFIDvCbo9BMeYA6sy3o3h8tN4zPlYlHq7QZo6gn7bkYzVtP5-Dyc-3-3HSfZjgNofizNv556UPvHSjqw7VBQV5nlwse3A-nk"
+    },
+    {
+        "name": "Magmar",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Fire",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/_NWLYqnb7lJ6wioKKO0RxUB7S9jXw2WnaB1eaycnUtQzeeEWYmcNnhoPQ0Y9hUzl2z3kyFDSIG5AHRbmKE3xhad7A066dPdDBfUkwTC7MbjevZQttA"
+    },
+    {
+        "name": "Larvesta",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Fire",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/IaA9shD-sGBV46ZxlKvTo__a-JmZhHy1AkdltimEmrTDvp8icX28o6bVugp1TndcWbHEmbiEX8ECvO7p5d5xlamOhDgdtlu8c6xJ-2iIevI"
+    },
+    {
+        "name": "Volcarona",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Fire",
+        "rarity": "3 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/baENWv1kXD58rdkbiGoWOsGcv8mRWHfQI0OJrkEsOpV2jSDjMjzIhLkCDJ7vN3V4kBpSBlxm8V7vPo17w5S3sRGOh2Xbq6bsH3QuJ183pdI"
+    },
+    {
+        "name": "Salandit",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Fire",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/L7m8Gsh6O3TSwvoHFQeaZijfjWTUhe1ErDBWdVTB90PfShEs-VtNTrxykz8OpfRAwH1i5-T6nj1lay0NPLvXiqW8OqCl3M9HhnreADKXS06R"
+    },
+    {
+        "name": "Salazzle",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Fire",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/wLvWUaF5zy5fSyDqxIId5JlxSloZxx6pyldYCY0vLScWgCxxQcT5BS_NwITkEvdKDNQbcdcIZRqCIjvGjCmHrzUYx598aRMCvmB0iqttdBo"
+    },
+    {
+        "name": "Magikarp",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Water",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/SKooYdDAre2ql-OBTuZUCf5vbv8nUZZwFrYrk8y46B8yi8ZREFzJet-dinwVk618jEGeBlCjAq8jo_ztz6b4hMT45zmjZoMXOIdhD6aJGGrxG7IAGw"
+    },
+    {
+        "name": "Gyarados ex",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Water",
+        "rarity": "4 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/wsPZkuNlS2CYLxWs0wISbTnBSIwydf09iZT2loMrrMulDT4t9EZjrmcxhO4zLR_K7c7_O4859OipSLiPTY3lYrydUhSCEylnUyGMQ7YnluStyW0"
+    },
+    {
+        "name": "Vaporeon",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Water",
+        "rarity": "3 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/9ceTOrEG_UbThyjg9Xz8iVvvUPCt3r4ksWfJFFfNivwpun1KlJOfQQFXrjlL03igFG7jnVmQtJjqjzB_pDW7Onwvj4ONG9soQzYStFU3E_ja4AWn"
+    },
+    {
+        "name": "Finneon",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Water",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/jFPCXwYCLpiyt7t9o1qKHyb8QHgRrkamMmQ4lnQ_EFQBiTr9r6jLhD0rZuBoILcADh_8tFNM1Qdd-K9bZY0i27yX6a63E8COhvOvo-g3Rd-a06Wo"
+    },
+    {
+        "name": "Lumineon",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Water",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/ZfCFgsovLulJ8kAs44ISuhvOsk2Nok56sl3gKiD03ywsSHnJz8MP15YsntZSU6UGzNJWlaMPeThLkIyGNFOctvQXOVc4H7wh2WlA7pDcQX5o"
+    },
+    {
+        "name": "Chewtle",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Water",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/q8dpXb_q-15WJyN3XQzf7VabfAe4whYFWbiKPS67VPHPBlBRFEfbYFVJAI3ATtnSkSP4IAyHi9LMoueqlUb0G-elZEntyE5H01kJIQaXPG4"
+    },
+    {
+        "name": "Drednaw",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Water",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/D7dd7dd-TicfcP6JOfZ2Omrw6xhOPL7T43cNwIfark_q7E5tD8dj7WRpkYvSRbY5VUUmSXXHiaFvBeUBNYzM87TgewQYQ0yrblf-TmKPHeJE"
+    },
+    {
+        "name": "Cramorant",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Water",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/mgSxrABzNZ6UVpjF4RJ9EBhkISKfuIxdkLACVQgDCIv2gq6PeKt9dIIlV5fDKyGau3x1v5J719XgM3Etd-pFeOuEY8fQFYYorab1VpJcXyu149mN"
+    },
+    {
+        "name": "Pikachu",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Lightning",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/Okm3V_fIDAOC01zaN2J2VJMA57_idRAPGwzaYNiaA5SLQhC1G5fgvKnQ_zNSrNZdzVXBYOs1CiSJ1X7_CtQ2KaLPVmJvBg5nCx2dE2IBzl076EYp"
+    },
+    {
+        "name": "Raichu",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Lightning",
+        "rarity": "3 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/xIue6RwSujjuaI-Q7gbTgjcwyMFXBIQ_rkJiUGvodOfEUsCnoIbio6MOWZONX5QCznxdEMaWIfQy-_cxeAffYPITP8OFIuxUEwZm2gm4FNdVTDvSPw"
+    },
+    {
+        "name": "Electabuzz",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Lightning",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/XoIanhPfZrx6k3vaDwE-F_Z-mY6RS8v8w8hyEXgjOvyTJLZaOruYDqL3yQ-mJrSQEBkaiEOHZMM0_XXsB3gT4KSrZFx-Rz6-hh7gFoe8GxCunI-a"
+    },
+    {
+        "name": "Joltik",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Lightning",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/H5eK0DSYFhrzQ2-pQMEU4AdbhLTwKmJf0nuPP_3xVtzpi6ECkUQvPiK4NpVBal5XKt1OQPoC_Bb2zQZNoOeTwYGlxE0TprImNfIU-c4dW2I"
+    },
+    {
+        "name": "Galvantula",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Lightning",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/sOOIX2x-wZiGkKo-g1v0xuLYxrXDfQHnEXfaWelMQPr91VCaLe1mOqbBM4dnjLAjv9ZKQ7Gb6IJSs5icdsr3HhJwyRoae-o_AmuLzmDcZOjf"
+    },
+    {
+        "name": "Dedenne",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Lightning",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/TckEU4k2fV1ESME_zweDwi0Bh9WhDk6Vx3P7r4FXMAuHLPHshvqNbp8M7_ShmQhBluueiilSquQkEX8OPPxBkLE8FsIkL2GwOETwYNFZ1yM"
+    },
+    {
+        "name": "Mew",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Psychic",
+        "rarity": "3 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/vY9o8NuChouoj4PBrbsitQAsx_9WvGmNTaMiRUI2TeVas3lJoZQ8f8FNhl_y38ODzIIr98nGSb0TfWxBR5lvxYfndeZb3KHYpaH2FzHTJWGJdwk_"
+    },
+    {
+        "name": "Mew ex",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Psychic",
+        "rarity": "4 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/B5pb-1fIKGu8CP9AdDtZelrPe1BxEqnvWKoGZIE2m2a9H8bP3cEDVDY8fFI7c1tPqFpXl_A4F9lqBoRUu8_Jr9iaEruMXu2GgvFLJXCi_s4"
+    },
+    {
+        "name": "Sigilyph",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Psychic",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/28Y-fRte6uR_yONt8HRqe2XbwtIy45NIhfo9Zg4dFncnR-ZUSABNnGh3BLiUoj4RV25XcCTwaGIcnmEl8T4X33SCS1NJtbXFD08qHebdgXac2znH"
+    },
+    {
+        "name": "Elgyem",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Psychic",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/eRPfMBRbCYrxeqE6J0kFZsatD-hNCVYrZPRmJO72CVZPpQxEUWtfQHHKzDYeXD7HfQ5AgEVfNUQxK0p3Bt7PCPJBTOzQ7YDkjqKycRH-xwE"
+    },
+    {
+        "name": "Beheeyem",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Psychic",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/m3ZmVZ2J_XAK_JX6GXoO9tNPv8mNXknZ6qbVtvFtSD2UpUXbICnrAh_vVGBI6EnNMVeE6lW65O-rhPATdoCYQnkDXNhLY1e2PtlN29efTmk"
+    },
+    {
+        "name": "Flabebe",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Psychic",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/ANsKKUHAXkNj7HmX24OY9YJlKxX1JyzqOE3E_1YLhNxm3Bj4QJH_t7XAYM-cmCRUcpKT3uWDPMj2uRCQLHfmbiM77SX-TVOxCe2ylOwmVqA"
+    },
+    {
+        "name": "Floette",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Psychic",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/ZNM3VkZ2GxfdhUPrl2buw2NQoT66JM7clrTusjs5aXnNcuLg56JQAHkG9dohaZua1yd2S4iHUcJO0RYlOSynbgpPF4bZWrn2vYGiv6VnlA"
+    },
+    {
+        "name": "Florges",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Psychic",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/OrjRDVMYipeQ-SWSF7p6SoTPZ4PQSxKx_99ODRI5OL8WoxTkbxmbrnllAZ9qGF5m4hyH7zf-XI1T6sJx3bJ0mYOdAK7LkBQdKr0KNlTjoQ"
+    },
+    {
+        "name": "Swirlix",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Psychic",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/kuBH_sBw-fk35FxXP_Q1m8qpGvX9fbAY7_EsZyN8KRf8iolFd-efM4ytBE9ZCs6zy5QuC7W24gCD209VJhv_cnUBKMJ1nLvkcH9hwDhfqGo"
+    },
+    {
+        "name": "Slurpuff",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Psychic",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/E6vkbQeYsYOz2Tag5RwAGdQSHi2EZ0DnCPqU_0gxHKqAj56eDztGNVJT3-bh7nQgTYdfWRSKj_6CmSfF0pPSMNbg372LgZIcXyU7ZWDmAA"
+    },
+    {
+        "name": "Mankey",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Fighting",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/hWSjnTKQkjCu6Vj_n1kqYT1mKa7bX4ADROyTeSAQ4rj4x4T4FDpYj_aVfRVuHCIQbc33WtRb0Pb4I7R8gYDt9Nwpk4AZa_7LSH9RQQ4GXOQ"
+    },
+    {
+        "name": "Primeape",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Fighting",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/14Iw-fdD4HBAogxtNTKDguwM1IIZZOw_kJiNCu3rUJTak4zU0ii7o0tYMwaYClUKtK-fhj4RKD_UYBDtXXdxmq4q-rpFV8vuZHWLdaZ2JuEH"
+    },
+    {
+        "name": "Geodude",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Fighting",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/ExHMJt-xZmnwPqPgkYjkLUwGDSvCFuS56y5IRk2eRczuez4-Z_aK8sjC1a0uwDD8F08DsG3iHfwsmzqEWeeT9KjK7XsQBLBxaBN-9dmVSA"
+    },
+    {
+        "name": "Graveler",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Fighting",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/Kv5kA1gH_B70RvQMl1Dq2o1gnB6SMFHpvs4iaG1ZMq4GnTTQaq-E3yUrt5aGVVtnyWkguSyRvixcYeSWDNYSW3Lg3btJ7eGkrnvgNXdpHKM88bMl"
+    },
+    {
+        "name": "Golem",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Fighting",
+        "rarity": "3 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/lb30AJGa_9QHQiTaw8WIumMIun4qrZXwUU4Av0GV6AiBSipRdMlNBhklz2-J1fx-YEMCNqcZe5s4pRjGwx1vDE1ctCyLTTwTIE6ws2NkTNh5ihrG"
+    },
+    {
+        "name": "Aerodactyl ex",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Fighting",
+        "rarity": "4 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/ZSA4FolaoaKyYzPSlhfq0fnIbFNSJkq7V9H13jkSfWg0jx0l9D46iNqhHKpHWZ0YPiA0QFV1CWcbw1P-FqcZ8sLkVNVizVDIalPZMWCfA9k9JO02"
+    },
+    {
+        "name": "Marshadow",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Fighting",
+        "rarity": "3 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/DaU4LTwE_z23q5jjGJKdh6YaCyws3cHWZMb3RMoJzaoMu_uZJBVqqb_uUOYaKdDtlli1Kw7Dec6uV0_86xhM_jn-C0p2L5exScb2cHkohA"
+    },
+    {
+        "name": "Stonjourner",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Fighting",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/R701KhJ5ErHGjWLbdnl3A-FYG8oG92m2-_k9j7WpACcmshio0GudIsfxFV5ohesycl3znyQlfDteZtZdGA3ojmz6WhjpbpoLpuercrtHQQ"
+    },
+    {
+        "name": "Koffing",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Darkness",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/_m6P-im2LfCsHSf_u9rAq0j63bbEfpfGkjXWBSCrYhfuU8EFH-g3jbukFBKmhbN4_11nAuaWTVM8xb80wlnwivEzRlDOFRJeoN4eQlfkrQWz3EeSrA"
+    },
+    {
+        "name": "Weezing",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Darkness",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/G97d9impJ4wofkkVpkqkeOEGmfXm1zfdQPsCkZi_fFWGejdVduPZSHo2y9JjDaCKnGW446VcmUYuzipTjQ0j5iv3OJwNRfZMLKKwrqwFhQ8"
+    },
+    {
+        "name": "Purrloin",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Darkness",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/CJmLEJsrE7fl8P4BG4mJ69y88xW-G5TGqmaFScHl4AavbodmdWoXycp2UfJR3WpBXLahjhDp382tJPO2sgMdv2aMZPaTL1atsCb643WkDA"
+    },
+    {
+        "name": "Liepard",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Darkness",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/IVU19ymwMSflI2CEirr4AJxddy3xR5wZE9-mqPXweCZR6bU6kNQytRG7DMOEo6KiZn-UtdfstIFthlRBfTAbYN9xGwuzbFlPHgGNsY1tcgE"
+    },
+    {
+        "name": "Venipede",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Darkness",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/5dUJuZHkqR-kkixdmg9g5AsCBsBfnEfSDTRGSIrEa3bVEKOBgv0qmdDEEqm4MGNv2GgmHdhXMeDFYHxPEpziz9mdDI3ztKCe9HJoNbxXQf9G"
+    },
+    {
+        "name": "Whirlipede",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Darkness",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/VuF7r1L_WiOlajkXBEJiNHgEb-fPKpcAL5Ponn6OU9utyXDYJwDuH42Wjg71JWi9glYEsBlmHbUaekUB5exmjCnNLsGzcdVPPxfUXUMjq9kNnAdyWA"
+    },
+    {
+        "name": "Scolipede",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Darkness",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/zK1sikgxGCNIRiyI1KgXWbSCwpImDkWrZNcVe4WJyodyw9gYSqCplZs2NcHNDhqDgFPjGmWhI13juJCWKxcdUvMniJtk1qIZ24DWehJU8w"
+    },
+    {
+        "name": "Druddigon",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Dragon",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/nDpdJLQxRdSk0LfPnT3Z12FaOEOpqS3ocCQgoXPzn6xwxHXYYrUULgm9YwMaDBY4z8UvlljDtFyUkiXlyf0qm8BLZownOb0tjybzwWWVSxk"
+    },
+    {
+        "name": "Pidgey",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Colorless",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/Eowkjs8vmXovwo1bPp1Nwao4M-cR5xXhsnQ56MF-urLMxGuHlVS4-NkqI5kFhj1JCuHMa0Rf9Kq4mM5WbNbGKvuYkda2TesbGkNlCn6TeQc"
+    },
+    {
+        "name": "Pidgeotto",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Colorless",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/__IUEJjlAI6RjYFZYyFewIyevcykD08g5z5thmIU-HhpIzMu4kIOmKwuIsx32CaE8KJ3WUZRJ8fudgvyioyf26cK2hRh_md1HS-h2VcfaA"
+    },
+    {
+        "name": "Pidgeot ex",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Colorless",
+        "rarity": "4 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/WPOkwevlODl-h2fPdVmBCgEVh8zwQs4pSX0gSwaO3H-EJfVyIQwpUH3E3XL9BNCP--RbYZl0MPx2wu7u3_pYzIMmLTAgTbNwkBjC_Plr0uB0fiba"
+    },
+    {
+        "name": "Tauros",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Colorless",
+        "rarity": "3 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/g-iQK66NrqV5Mpj2tn_kQq5819IVGmI8gMKaJrH3WDfH008etOjDSbkUINl7t91Vghk64W8mc8GBAhSwwzx7N6qLfCPBRTm0a1UaecvNOyCC"
+    },
+    {
+        "name": "Eevee",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Colorless",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/iaX_m456oLwX6HFdjKZoGPnk5yR2zrd5FOD-TnrfiJUaN8CASW7vn69VokdgVolWlWHBTmadxA-9WaNFHM0kX4UPV_PYSF4BE-XkUpMoK9Y"
+    },
+    {
+        "name": "Chatot",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Colorless",
+        "rarity": "1 Diamond",
+        "image_url": "https://lh3.googleusercontent.com/snGdWl01MtzF4ljgdChbc8vamK1BiX_Qq6r-on7o_M4lAovH8ynCG90DoKkJpK4ZPLQgrENTeU7_qM2CDqOEqWzVCScWqAmJWsoL63VeOGk"
+    },
+    {
+        "name": "Pokemon Flute",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Item",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/6I2fq7nht73WJE5iitY8Zu_8EPU1AOODI39QlcE5yvwNMYbOdycGPROBzTl0EccfFlhAW71PfIeREIucjcvdlbywxs1jx91MagmiLD27an8"
+    },
+    {
+        "name": "Mythical Slab",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Item",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/8omyrEUF-ufyxQgHoeGXE6cM-Z7JmvsPn_hRrpxkWafQNE41vw_nd3S8vogH3mRx6cy464KzkQpU2FzAjhJuUlFaTKV9gb4phUJFTkK_CfM"
+    },
+    {
+        "name": "Budding Expeditioner",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Supporter",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/xQsmU0wT12pNN3ekdjtziUKvRq1lKEHvK3Zr8U4DeQMuxVl1FrOmrEVXTE2KkuhoNoLpmM0Rmlz7lYjQwrVmcX7MbH53jzRTxWBEnCDWGOMg"
+    },
+    {
+        "name": "Blue",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Supporter",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/xM00ezfGE1r0s1EklD-_shJuDK98PqnBokVTKfILm9NDxc4OGnrQ9tm7j_t2xZZUsAvj097F5nCQMkrQap8N6uDN3EQDAJickZaHgrcPJ-UM"
+    },
+    {
+        "name": "Leaf",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Supporter",
+        "rarity": "2 Diamonds",
+        "image_url": "https://lh3.googleusercontent.com/ZdNecMyRUQORH0xPi90zLZVRhCqyZDc3IirOlQ05WfnT5Ih8UBHGuYWlu2CV1g6xJREn7dq3-dfc8FixuMBjG2W0BXuWf6H3cGJH7Wv771Sk"
+    },
+    {
+        "name": "Exeggutor",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Grass",
+        "rarity": "1 Star",
+        "image_url": "https://lh3.googleusercontent.com/zIG06LvMVaw-Ugn0vmAJdHCt-a0lcWNj6qUmX_ers2z2i6PdU1WhNj6YK8De6fWjAOzJs1LOrkz91UBwKnYIHl2GtZh4zbhXKF88s4MoJ-zaZoqP"
+    },
+    {
+        "name": "Serperior",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Grass",
+        "rarity": "1 Star",
+        "image_url": "https://lh3.googleusercontent.com/nXgmHoSP_Wd_hmQfnlSgjSDzJuFL-ejrvRA2OWkzkQhaMKM9GKUbHyDKJzWcX8pqKZ5Bc5J9bP-89yhGLXEA8cP_XSPrjGhSs61GNYHTqgNIlwOT"
+    },
+    {
+        "name": "Salandit",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Fire",
+        "rarity": "1 Star",
+        "image_url": "https://lh3.googleusercontent.com/-H1pfuyNYVUd9_5vRRbS4v3wr08roRWYxUZ0PiFH94WdRLK5i__jT2lu3YErPLiRu13faoiPeRUwUCsiK6C0uAIzGCyCnb1g9ezZr8scHifpzz4"
+    },
+    {
+        "name": "Vaporeon",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Water",
+        "rarity": "1 Star",
+        "image_url": "https://lh3.googleusercontent.com/ZoeF-GiEc0RjzCfUWR7Xi3awTTmF869VVQQYW4lAKOt2kNAlAGzwz9JtLIzrJgSpB7FNSXuvzPy9tJvzFGz2ANMux24rHJuNWnSC4NIIUhP46FzD"
+    },
+    {
+        "name": "Dedenne",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Lightning",
+        "rarity": "1 Star",
+        "image_url": "https://lh3.googleusercontent.com/yI8_M9I_CV3Yl__sOpEtTuIl79MdqzndePIDjasRyP7stqPxWoEkBzq5KH8iYsYxPrWYh-iJEGv6fnGb6zbbB3mbuAn_wv33udTZjmAWGMK3"
+    },
+    {
+        "name": "Marshadow",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Fighting",
+        "rarity": "1 Star",
+        "image_url": "https://lh3.googleusercontent.com/pmdrI6PVEX1sD2G4hpgUC9fkmKfOyjR6mZHDNdMM3M0US1BVXXMoWsGxo60YGsfHM8ei4uwDZScQ0-s0b9-GAWWCjUBHC0_wQM83ieZjN3qfcPx1"
+    },
+    {
+        "name": "Celebi ex",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Grass",
+        "rarity": "2 Stars",
+        "image_url": "https://lh3.googleusercontent.com/eyen30q9IpqYNcOUwf42k2F4oq-pS6mbuJhjo9NxwPXGXSGzasfRCoyZfVWMaobk85XJtQ2InWcGjawHN5eyS5iqSFVDciSFe6Ube3i-F9Q"
+    },
+    {
+        "name": "Gyarados ex",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Water",
+        "rarity": "2 Stars",
+        "image_url": "https://lh3.googleusercontent.com/9Jic-UretiyKo7lVTwfugZ46kbX6KIJY-KDX6dPwOxPTmeB9ZMFlWJ0uxma-NnYr-NcjcvGVRap0ZtqXn94kRHW3AjhfZej1juPTgznY2-2Z3u4"
+    },
+    {
+        "name": "Mew ex",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Psychic",
+        "rarity": "2 Stars",
+        "image_url": "https://lh3.googleusercontent.com/LUJBwTeJ-06zDolcwjjPtN9O8_6W0Gp6q3kRLRHRqUC1RLFla5YoqbRK74e_Kc0GJiuCuKyG4vU2pBafzHdBuTofnwRDt2Wht-fjNAcTEw"
+    },
+    {
+        "name": "Aerodactyl ex",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Fighting",
+        "rarity": "2 Stars",
+        "image_url": "https://lh3.googleusercontent.com/0b4cfVPrYyDevzfZFZz5CJfHwF2NcLUUVyDP6_P0Y8WRmW95RqsWEE7p5C3BddptKp4GxZN5PO2YNT_IjFrWCFAxPcozdXcF4IUr2ANRRhQO_dg"
+    },
+    {
+        "name": "Pidgeot ex",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Colorless",
+        "rarity": "2 Stars",
+        "image_url": "https://lh3.googleusercontent.com/zCHnJbE8UkErgmTfn3vgJ4qkZZAk8w5wWeMSlly7jkKExQfHNPr5LcTodS-8UxCtzPlCCJ1BJ_QW-iEFJjposSP080__Nzz2LhhiqTohaMKdAiDwZg"
+    },
+    {
+        "name": "Budding Expeditioner",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Supporter",
+        "rarity": "2 Stars",
+        "image_url": "https://lh3.googleusercontent.com/PM_sw4VBUzG3CXQ8Gz32d90iPVlvSUSxK_3ZmDixEv_2MLpEhIUP6M8kxLUuxWQ6xdgRxfAVHlgf91WrLt_03uOaSXVxyBHUx3O-kzInkA"
+    },
+    {
+        "name": "Blue",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Supporter",
+        "rarity": "2 Stars",
+        "image_url": "https://lh3.googleusercontent.com/Q9MO5iJOIMZfFRzd3InOc0Sfo3T99MPcF1uU4bsN5KYdZtSYboBDCAEFX4aBiwl9lEHUxnVec8w6z5TyBuIFweE0qyvQt88W3x28FCaSgDhEKA"
+    },
+    {
+        "name": "Leaf",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Supporter",
+        "rarity": "2 Stars",
+        "image_url": "https://lh3.googleusercontent.com/pwPYjlUWPTPi0P32DXo7Qw1MgdSiZLuQ-GP_ZUI63pZBs6l1v4BS8Rc3vte5kmkkD2u8r_vQh3dsJw1nO7RWz3RElEapABY2Do7icEC9gYXucRS2Fg"
+    },
+    {
+        "name": "Mew ex",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Psychic",
+        "rarity": "2 Stars",
+        "image_url": "https://lh3.googleusercontent.com/ouZQ4J9g0ZRSVhK8Pp_tkmPqd4Inz-b6-yspCd3t08BvWCVcEpplT2cbvKLURmCVuIEIyp2f5mxZbVvxJ1zByIeXVX_styFYDdql5QReIg"
+    },
+    {
+        "name": "Aerodactyl ex",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Fighting",
+        "rarity": "3 Stars",
+        "image_url": "https://lh3.googleusercontent.com/Vqr79Vh2d9GrXThyXkvhUYfzle__UWjntRpu-G-O3LpyINUZoiG1AXtLsh42yRS-6cY-2Pmc_-jxuWMx1lUHd7TtW3oH0HrHyw-TeSp7IqMhM8LR5Q"
+    },
+    {
+        "name": "Celebi ex",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Grass",
+        "rarity": "3 Stars",
+        "image_url": "https://lh3.googleusercontent.com/gIj4Qoiy-TCLRoR9nO4hunfehbRNiIK0c-HPZ4zrGeqIyMfJrKNvRg0Qsnn6-XFaJtUPFARmbOm11semH4FX4N56l-zoT4mgomu7vO6_GusWK9huJg"
+    },
+    {
+        "name": "Mew ex",
+        "set_name": "MYTHICAL ISLAND Mew pack",
+        "type": "Psychic",
+        "rarity": "Crown",
+        "image_url": "https://lh3.googleusercontent.com/7hdoB0ZMCRMbRfTBSyk3IjuFpMoMv6ZjB4OlbySpySVmW45h0GDd17d2LFZEP6P_O1jyvDu31jAknm82ah2LzPfJUzaMPIgT50MN2I1KegI4J9B8"
+    },
+    {
+        "name": "Potion",
+        "set_name": "Unknown Set",
+        "type": "Item",
+        "rarity": "PROMO",
+        "image_url": "https://lh3.googleusercontent.com/vMcYr0bdkqACCK4vex01GAWpu_9rc8eabzg1N3y8cJ3cyNJXxg4h6mOz4j-I61k2MKqlTFQODLWRcMUAspSTlE61uHGZY2X_tD-Wr6ThljA"
+    },
+    {
+        "name": "X Speed",
+        "set_name": "Unknown Set",
+        "type": "Item",
+        "rarity": "PROMO",
+        "image_url": "https://lh3.googleusercontent.com/VCF5HLUJG_Lt91RwCw_MEAuAYY79r2rLb0IF7i9hd1-JGflilFKnFcBizFJ61l_09O01-1GmCJcBhYSaTTHQbBHG3-xNMLYXZqjgXGiiWQY"
+    },
+    {
+        "name": "Hand Scope",
+        "set_name": "Unknown Set",
+        "type": "Item",
+        "rarity": "PROMO",
+        "image_url": "https://lh3.googleusercontent.com/K2NIwZBoxJaliDdOmTPj4SL_w2mFAZ9wSnTW8CofFMvvGotohz7dK-Oebfj4PhTNReEcm9FEnE1u8Iuh8QW4pcb01sJwGXClww6I62CO4iw"
+    },
+    {
+        "name": "Pokédex",
+        "set_name": "Unknown Set",
+        "type": "Item",
+        "rarity": "PROMO",
+        "image_url": "https://lh3.googleusercontent.com/YBBIMlwu3m5TejIO_MtC6y886uJ9WDZgIWe67F8LNG6VWq2Tu7eb2OIs8gx_VfsDcTAg9AigkHhxyYVApjG5k3L9uO1Bjwi5voWyQYVW9bhO"
+    },
+    {
+        "name": "Poké Ball",
+        "set_name": "Unknown Set",
+        "type": "Item",
+        "rarity": "PROMO",
+        "image_url": "https://lh3.googleusercontent.com/FgGU8MXWyAIzwU-wLblCkonEgZUUBV9eGSHUxGj81U-Nj4_r8uHPQaOKpurdPoUwwQCYkSBehQYqL0hZDUWLp7qxtABVR5AYsXqAgt6F1ELg"
+    },
+    {
+        "name": "Red Card",
+        "set_name": "Unknown Set",
+        "type": "Item",
+        "rarity": "PROMO",
+        "image_url": "https://lh3.googleusercontent.com/BytZG-gzEwa1J8cnR3eKKMyObMba2IL76_JKwf5E12zhjLff49nixyfGA4sgGEkwLYC8zcI0B3Ojfc4aTm-aiGd2KDSvpS3fZk_2-vG-XAs"
+    },
+    {
+        "name": "Professors Research",
+        "set_name": "Unknown Set",
+        "type": "Supporter",
+        "rarity": "PROMO",
+        "image_url": "https://lh3.googleusercontent.com/OtO_axnMVKpWQmUmC8rb155d1onlWXN4k_rJqc-sZy6XWnOrpfQ85zT12d4N7hZh3fbyBibqzBt0VahEkogJTyaFuRdWweIfD-TFYn6kQA"
+    },
+    {
+        "name": "Pikachu",
+        "set_name": "Unknown Set",
+        "type": "Lightning",
+        "rarity": "PROMO",
+        "image_url": "https://lh3.googleusercontent.com/UJ6g52HmVFSy3RIX4lbamqQxe6bA0Jh8fFMSQdmmoBaDkQwnxRDgdxDvDW8_M9iP7TarExhYxL505sQyMEHAqup18MxG2jc1qYHRUl-OWs4"
+    },
+    {
+        "name": "Mewtwo",
+        "set_name": "Unknown Set",
+        "type": "Psychic",
+        "rarity": "PROMO",
+        "image_url": "https://lh3.googleusercontent.com/ZosqVqRsoQfprbrD0BJX92GXwvH06cviOxSvijyJMdeb69X5m7EFTS3GtPDR3IAV09bqv7hrWIRvOzquvqBB924uZNOMFAp1rBwU5le8gg"
+    },
+    {
+        "name": "Chansey",
+        "set_name": "Unknown Set",
+        "type": "Colorless",
+        "rarity": "PROMO",
+        "image_url": "https://lh3.googleusercontent.com/--XeOKM5cGOiUk4B35sCh1ymXGyM7sSIfgIoitLjRmvxGmVnIouaJWjSnQMmbhqrL8doxv3h9RjuZuaNLTVnpKbfNxd9NUSFKqWkq-l46w"
+    },
+    {
+        "name": "Meowth",
+        "set_name": "Unknown Set",
+        "type": "Colorless",
+        "rarity": "PROMO",
+        "image_url": "https://lh3.googleusercontent.com/9l4YU1QSCg8ihq5CjftJTeZwDTbhHtsqJnGbDsS-58dW5_HCc9jiMvXtUwXQFJ0b1gloTuQ6lKm8QGpGeCKIe9QX8TcP0Stj9eAfn2Yxlg4"
+    },
+    {
+        "name": "Butterfree",
+        "set_name": "Unknown Set",
+        "type": "Grass",
+        "rarity": "PROMO",
+        "image_url": "https://lh3.googleusercontent.com/Qou3DjKcpmR1vObCLrk9aFlSyzLOsp2gZVAUq3MBtyS-O6F77Uym0j-WBAmkXStmjVQhFaPvE7z8UHkf2lVISALapJsgGE2tyl_acE3MNYaP"
+    },
+    {
+        "name": "Lapras ex",
+        "set_name": "Unknown Set",
+        "type": "Water",
+        "rarity": "PROMO",
+        "image_url": "https://lh3.googleusercontent.com/BjjzQCI2FD-MwGL2utop5lreE_T_AngyUy8Lpcm6xK_4bZ_r-BIGZxr6IfnIwArEubMgKbOoLnY0A-pHtUio6jxUxgf02PBVceAP0zKxl-c"
+    },
+    {
+        "name": "Pikachu",
+        "set_name": "Unknown Set",
+        "type": "Lightning",
+        "rarity": "PROMO",
+        "image_url": "https://lh3.googleusercontent.com/_-L67GS98mBQT3AFyZ5NdzxrkZhrB2rWyqUYwpnlojqZrSjALxGyVaNTJZ4n_50HsNW0FM5lojtDQzCLaq3Hkc1N5PgT6iLLx-bzogoYeQ"
+    },
+    {
+        "name": "Clefairy",
+        "set_name": "Unknown Set",
+        "type": "Psychic",
+        "rarity": "PROMO",
+        "image_url": "https://lh3.googleusercontent.com/epG3fZeSA2fXsqJMNOnHPu4j2u8A9I2lxswUTSBH6--_YxL3GdAiy_h6xE_6hf1AaWE8Uqt-PO5xRONPtPZlbuTsFMGXbO0_nnnBTMbFqfex"
+    },
+    {
+        "name": "Mankey",
+        "set_name": "Unknown Set",
+        "type": "Fighting",
+        "rarity": "PROMO",
+        "image_url": "https://lh3.googleusercontent.com/HAZHZWyNpseuLxevDJHyrO9wMjUtOHVz1yyeBlfrX3Z3c8cEqy0EeoEtLKs4ErogloPuCrft5Act5eHUFODuY9kZCYt6rmIreVfcuo8KQw"
+    },
+    {
+        "name": "Venusaur",
+        "set_name": "Unknown Set",
+        "type": "Grass",
+        "rarity": "PROMO",
+        "image_url": "https://lh3.googleusercontent.com/QYJ_2_gkHIzb1H6WH_pWIXuMfR-kovOWVWZv7A9fLhAEquYeTKz8oM7cAwIUGkzeJBfbDAJEkiIKIaILfUFBQV54bc8UaNMAScxiQSrlrRQbVL41"
+    },
+    {
+        "name": "Greninja",
+        "set_name": "Unknown Set",
+        "type": "Water",
+        "rarity": "PROMO",
+        "image_url": "https://lh3.googleusercontent.com/WGco8BgmFovwQ5FSHXJpHOrg6rNrm5eipq9IZarQSq4OTKKqm8ojsa8VUSRkIDN4M7LX5d5QiJHvaEOz_qxAz5zQr0NJIRPif3P6Tgn4Ns4o86c"
+    },
+    {
+        "name": "Haunter",
+        "set_name": "Unknown Set",
+        "type": "Psychic",
+        "rarity": "PROMO",
+        "image_url": "https://lh3.googleusercontent.com/futl72WXjB0wtEpObykzIKm9eWPf_PvyGc1X8gFFaWNzdfOocgm7Spins47YUDSFFJij3KUSOwfFiH_QuHwTPutRddYy2egIr4JC9a12Kisj8aWb"
+    },
+    {
+        "name": "Onix",
+        "set_name": "Unknown Set",
+        "type": "Fighting",
+        "rarity": "PROMO",
+        "image_url": "https://lh3.googleusercontent.com/0E6SWOT3oSJDCGigEDRFPRSWK3WV97nmcZMZmy-Y4QN3KCbS2lCtso-Lt0cXhQheROt9sPmCuujYUMRWJrVyshxppoLG6st2Imai-1P9EIhXEtvPaw"
+    },
+    {
+        "name": "Jigglypuff",
+        "set_name": "Unknown Set",
+        "type": "Colorless",
+        "rarity": "PROMO",
+        "image_url": "https://lh3.googleusercontent.com/RJ8GztxBuV6UKuGje7UzQDWwlqVNzNw3CLudd6KX4-SEmSkHfSLxmeBN3fT8zRNMcZ1JycU8ZF-4q4BppxL3riS8vD4MxjL28U73ZlitZWNtSQhL"
+    },
+    {
+        "name": "Bulbasaur",
+        "set_name": "Unknown Set",
+        "type": "Grass",
+        "rarity": "PROMO",
+        "image_url": "https://lh3.googleusercontent.com/MYygS9hGIzt0SgASm1pvmbCs0IbpK-xE5fmAv2qeN_16L2qEMcSWCMKkroFMe_gG4uiruflSMhO_0Kgh1nsieoXanw0yHL8ZNVmuwyxV4b5P"
+    },
+    {
+        "name": "Magnemite",
+        "set_name": "Unknown Set",
+        "type": "Lightning",
+        "rarity": "PROMO",
+        "image_url": "https://lh3.googleusercontent.com/Qs1O0A4W64KnVsWGlu_wF-Mu8N8tkojrDogPYmhSLGOcbWD5KSdxOOayagInsQmZ-T9ckQVfsNYR6dsendnVb1kd3mcrC6jav6lXtH9OmA"
+    }
+]
